@@ -1,0 +1,1968 @@
+%!PS-Adobe-3.1
+%%Title: Microsoft Word - ekspresi.doc
+%%Creator: ADOBEPS4.DRV Version 4.24
+%%CreationDate: 08/24/04 03:24:31
+%%For: ADPC
+%%BoundingBox: (atend)
+%%Pages: (atend)
+%%PageOrder: Special
+%%DocumentNeededResources: (atend)
+%%DocumentSuppliedResources: (atend)
+%%DocumentSuppliedFeatures: (atend)
+%%DocumentData: Clean7Bit
+%%LanguageLevel: 3
+%%TargetDevice: (Acrobat Distiller) (3010.106) 0
+%%EndComments
+
+%%BeginDefaults
+%%PageBoundingBox: 1 1 612 792 
+%%ViewingOrientation: 1 0 0 1
+%%PageFeatures: 
+%%+ *Resolution 600dpi
+%%+ *PageSize Letter
+%%+ *PageRegion Letter
+%%EndDefaults
+
+%%BeginProlog 
+%%BeginResource: procset AdobePS_Win_Feature_Safe 4.2 0
+userdict begin/lucas 21690 def/featurebegin{countdictstack lucas[}bind def
+/featurecleanup{stopped{cleartomark dup lucas eq{pop exit}if}loop
+countdictstack exch sub dup 0 gt{{end}repeat}{pop}ifelse}bind def end
+%%EndResource
+%%BeginResource: procset AdobePS_Win_ErrorHandler 4.2 0
+/currentpacking where{pop/oldpack currentpacking def/setpacking where{pop
+false setpacking}if}if/$brkpage 64 dict def $brkpage begin/prnt{dup type
+/stringtype ne{=string cvs}if dup length 6 mul/tx exch def/ty 10 def
+currentpoint/toy exch def/tox exch def 1 setgray newpath tox toy 2 sub moveto
+0 ty rlineto tx 0 rlineto 0 ty neg rlineto closepath fill tox toy moveto 0
+setgray show}bind def/nl{currentpoint exch pop lmargin exch moveto 0 -10
+rmoveto}def/=={/cp 0 def typeprint nl}def/typeprint{dup type exec}readonly def
+/lmargin 72 def/rmargin 72 def/tprint{dup length cp add rmargin gt{nl/cp 0 def
+}if dup length cp add/cp exch def prnt}readonly def/cvsprint{=string cvs
+tprint( )tprint}readonly def/integertype{cvsprint}readonly def/realtype{
+cvsprint}readonly def/booleantype{cvsprint}readonly def/operatortype{(--)
+tprint =string cvs tprint(-- )tprint}readonly def/marktype{pop(-mark- )tprint}
+readonly def/dicttype{pop(-dictionary- )tprint}readonly def/nulltype{pop
+(-null- )tprint}readonly def/filetype{pop(-filestream- )tprint}readonly def
+/savetype{pop(-savelevel- )tprint}readonly def/fonttype{pop(-fontid- )tprint}
+readonly def/nametype{dup xcheck not{(/)tprint}if cvsprint}readonly def
+/stringtype{dup rcheck{(\()tprint tprint(\))tprint}{pop(-string- )tprint}
+ifelse}readonly def/arraytype{dup rcheck{dup xcheck{({)tprint{typeprint}forall
+(})tprint}{([)tprint{typeprint}forall(])tprint}ifelse}{pop(-array- )tprint}
+ifelse}readonly def/packedarraytype{dup rcheck{dup xcheck{({)tprint{typeprint}
+forall(})tprint}{([)tprint{typeprint}forall(])tprint}ifelse}{pop
+(-packedarray- )tprint}ifelse}readonly def/courier/Courier findfont 10
+scalefont def end errordict/handleerror{systemdict begin $error begin $brkpage
+begin newerror{/newerror false store vmstatus pop pop 0 ne{grestoreall}if
+showpage initgraphics courier setfont lmargin 720 moveto(ERROR: )prnt
+errorname prnt nl(OFFENDING COMMAND: )prnt/command load prnt $error/ostack
+known{nl nl(STACK:)prnt nl nl $error/ostack get aload length{==}repeat}if
+systemdict/showpage get exec(%%[ Error: )print errorname =print
+(; OffendingCommand: )print/command load =print( ]%%)= flush}if end end end}
+dup 0 systemdict put dup 4 $brkpage put bind readonly put/currentpacking where
+{pop/setpacking where{pop oldpack setpacking}if}if
+%%EndResource
+%%BeginResource: procset AdobePS_Win_Driver_Incr_L2 4.2 0
+userdict /AdobePS_Win_Driver_Incr_L2 250 dict dup begin put
+%%BeginResource: procset AdobePS_FatalError 4.2 0
+/FatalErrorIf{{initgraphics findfont 1 index 0 eq{exch pop}{dup length dict
+begin{1 index/FID ne{def}{pop pop}ifelse}forall/Encoding{ISOLatin1Encoding}
+stopped{StandardEncoding}if def currentdict end/ErrFont-Latin1 exch definefont
+}ifelse exch scalefont setfont counttomark 3 div cvi{moveto show}repeat
+showpage quit}{cleartomark}ifelse}bind def
+%%EndResource
+[
+(This job can print only on a PostScript(R) Level 2 or 3 ) 100 500
+(printer. Please send this file to a Level 2 or 3 printer.) 100 485
+( ) 100 470
+12 /Times-Roman
+/languagelevel where {pop languagelevel}{1} ifelse 2 lt FatalErrorIf
+/VM? {vmstatus exch sub exch pop gt { [
+(This job requires more memory than is available in this printer.) 100 500
+(Try one or more of the following, and then print again:) 100 485
+(In the PostScript dialog box, click Optimize For Portability.) 115 470
+(In the Device Options dialog box, make sure the Available Printer Memory is accurate.) 115 455
+(Reduce the number of fonts in the document.) 115 440
+(Print the document in parts.) 115 425
+12 /Times-Roman showpage
+(%%[ PrinterError: Low Printer VM ]%%) =
+true FatalErrorIf}if} bind def
+30000  VM?
+%%BeginResource: procset AdobePS_Win_Utils 4.2 0
+/d/def load def/,/load load d/~/exch , d/?/ifelse , d/!/pop , d/`/begin , d/^
+/index , d/@/dup , d/+/translate , d/$/roll , d/U/userdict , d/M/moveto , d/-
+/rlineto , d/&/currentdict , d/:/gsave , d/;/grestore , d/F/false , d/T/true ,
+d/N/newpath , d/E/end , d/Ac/arc , d/An/arcn , d/A/ashow , d/D/awidthshow , d
+/C/closepath , d/V/div , d/O/eofill , d/L/fill , d/I/lineto , d/-C/rcurveto ,
+d/-M/rmoveto , d/+S/scale , d/Ji/setfont , d/Lc/setlinecap , d/Lj/setlinejoin
+, d/Lw/setlinewidth , d/S/show , d/LH/showpage , d/K/stroke , d/W/widthshow ,
+d/R/rotate , d/XS/xshow , d/b{bind d}bind d/bd{bind d}bind d/xd{~ d}bd/ld{, d}
+bd/lw/Lw ld/lc/Lc ld/lj/Lj ld/sg/setgray ld/bn/bind ld/L2? F/languagelevel
+where{! languagelevel 2 ge{! T}if}if d/L3? F/languagelevel where{!
+languagelevel 3 ge{! T}if}if d/g{@ not{U/DefIf_save save put}if U/DefIf_bool 2
+^ put}b/DefIf_El{if U/DefIf_bool get not @{U/DefIf_save get restore}if}b/e{
+DefIf_El !}b/self & d/reinitialize{[/TextInit/GraphInit/UtilsInit counttomark{
+@ where{self eq}{F}?{cvx exec}{!}?}repeat cleartomark}b/initialize{`{
+/ADO_mxRot ~ d/TextInitialised? F d reinitialize E}{U/Pscript_Win_Data 230
+dict @ ` put/ADO_mxRot ~ d/TextInitialised? F d reinitialize}?}b/terminate{!{&
+self eq{exit}{E}?}loop E}b/suspend/terminate , d/resume{` Pscript_Win_Data `}b
+/snap{transform 0.25 sub round 0.25 add ~ 0.25 sub round 0.25 add ~ itransform
+}b/dsnap{dtransform round ~ round ~ idtransform}b U<04>cvn{}put/setjn{{
+statusdict/jobname known{statusdict/jobname 3 -1 $ put}if}stopped cleartomark}
+b/solid{[]0 setdash}b/setdsh{0 setdash}b/colspRefresh{}b/rp{4 2 $ M 1 ^ 0 - 0
+~ - neg 0 -}b/rr{1 ^ 0 - 0 ~ - neg 0 - C}b/CTMsave{globaldict ` currentglobal
+T setglobal/SavedCTM matrix currentmatrix d setglobal E}b/CTMrestore{
+globaldict ` currentglobal T setglobal/SavedCTM where{! SavedCTM setmatrix}if
+setglobal E}b/emuxs{! ! currentpoint( )@ 0 6 -1 $ put S ~ 3 ^ 3 ^ get add ~ M
+1 add}b/XSE{version cvi 2015 ge{XS}{0/emuxs , 4 -1 $ cshow ! !}?}b
+%%EndResource
+%%BeginResource: procset AdobePS_Win_Utils_L2 4.2 0
+/colspA/DeviceGray d/colspABC/DeviceRGB d/setAorABC{{colspA}{colspABC}?
+setcolorspace}b/rf/rectfill , d/fx{1 1 dtransform @ 0 ge{1 sub 0.5}{1 add -0.5
+}? 3 -1 $ @ 0 ge{1 sub 0.5}{1 add -0.5}? 3 1 $ 4 1 $ idtransform 4 -2 $
+idtransform}b/BZ{4 -2 $ snap + +S fx rf}b/rs/rectstroke , d/rc/rectclip , d/sg
+{@ @ setcolor}b/sco{setcolor}b/colspRefresh{colspABC setcolorspace}b/sgco{{sg
+}{sco}?}b/UtilsInit{currentglobal{F setglobal}if}b/resourcestatus where{!
+/ColorRendering/ProcSet resourcestatus{! ! T}{F}?}{F}? not{/ColorRendering<<
+/GetHalftoneName{currenthalftone @/HalftoneName known{/HalftoneName get}{!
+/none}?}bn/GetPageDeviceName{currentpagedevice @/PageDeviceName known{
+/PageDeviceName get @ null eq{!/none}if}{!/none}?}bn/GetSubstituteCRD{!
+/DefaultColorRendering/ColorRendering resourcestatus{! !/DefaultColorRendering
+}{(DefaultColorRendering*){cvn exit}127 string/ColorRendering resourceforall}?
+}bn>>/defineresource where{!/ProcSet defineresource !}{! !}?}if/buildcrdname{
+/ColorRendering/ProcSet findresource ` mark GetHalftoneName @ type @/nametype
+ne ~/stringtype ne and{!/none}if(.)GetPageDeviceName @ type @/nametype ne ~
+/stringtype ne and{!/none}if(.)5 ^ 0 5 -1 1{^ length add}for string 6 1 $ 5 ^
+5{~ 1 ^ cvs length 1 ^ length 1 ^ sub getinterval}repeat ! cvn 3 1 $ ! ! E}b
+/definecolorrendering{~ buildcrdname ~/ColorRendering defineresource !}b
+/findcolorrendering where{!}{/findcolorrendering{buildcrdname @/ColorRendering
+resourcestatus{! ! T}{/ColorRendering/ProcSet findresource ` GetSubstituteCRD
+E F}?}b}?/selectcolorrendering{findcolorrendering !/ColorRendering
+findresource setcolorrendering}b/ExecWMForm{execform}b/setpagedevice where{!
+/realstpgdev/setpagedevice ld}if/SC_topddict 0 d/SC_spdict 0 d/dopgdev{
+Pscript_Win_Data/setpagedevice undef SC_topddict @ length 0 gt{realstpgdev}if}
+bd/stpgdev{SC_topddict @ 3 -1 ${SC_spdict 2 ^ known{SC_spdict 2 ^ get @ 3 -1 $
+{put @}forall ! put @}{put @}?}forall ! !}bd/ststpgdev{Pscript_Win_Data
+/setpagedevice/stpgdev , put/SC_topddict 0 dict store/SC_spdict 3 dict `
+/InputAttributes 0 dict d/Policies 0 dict d/OutputAttributes 0 dict d & E
+store}d
+%%EndResource
+%%BeginResource: procset AdobePS_Win_Clip_Emul 4.2 0
+L3? not{/clipsave/: , d/cliprestore{U `/curr_cs currentcolorspace d/curr_cd
+currentcolorrendering d/curr_color[currentcolor]d/curr_font currentfont d
+/curr_lc currentlinecap d/curr_lj currentlinejoin d/curr_lw currentlinewidth d
+/curr_dash[currentdash]d/curr_ml currentmiterlimit d ; curr_cs setcolorspace
+curr_cd setcolorrendering curr_color{}forall setcolor curr_font Ji curr_lc Lc
+curr_lj Lj curr_lw Lw curr_dash{}forall setdash curr_ml setmiterlimit E}bind d
+}if/cs/clipsave , d/cr/cliprestore , d
+%%EndResource
+end 
+%%EndResource
+%%EndProlog
+
+%%BeginSetup 
+statusdict begin (%%[ ProductName: ) print product print ( ]%%)= flush end
+/findresource where{pop mark{/CIDParams /ProcSet findresource /SetBuildCompatible get true exch exec}stopped cleartomark}if 
+[ 1 0 0 1 0 0 ] false AdobePS_Win_Driver_Incr_L2 dup /initialize get exec
+
+%%BeginNonPPDFeature: JobTimeout 0
+featurebegin{0 
+/languagelevel where{pop languagelevel}{1}ifelse 2 ge{1 dict dup/JobTimeout  4 -1 roll put setuserparams}{statusdict/setjobtimeout get exec}ifelse 
+}featurecleanup
+%%EndNonPPDFeature
+%%BeginNonPPDFeature: WaitTimeout 240
+featurebegin{240 
+/languagelevel where{pop languagelevel}{1}ifelse 2 ge{1 dict dup/WaitTimeout 4 -1 roll put setuserparams}{statusdict/waittimeout 3 -1 roll put}ifelse 
+}featurecleanup
+%%EndNonPPDFeature
+featurebegin{ ststpgdev
+%%BeginFeature: *Resolution 600dpi
+1 dict dup /HWResolution [600 600] put setpagedevice
+%%EndFeature
+%%BeginFeature: *PageSize Letter
+
+  2 dict dup /PageSize [612 792] put dup /ImagingBBox null put
+setpagedevice
+%%EndFeature
+dopgdev }featurecleanup
+1 setlinecap 1 setlinejoin 
+/mysetup [ .12 0 0 -.12 1 792 ] def 
+userdict begin /savelevel0 save def end
+%%EndSetup
+
+%%Page: 1 1
+%%BeginPageSetup
+featurebegin{
+
+}featurecleanup
+featurebegin{
+%%BeginFeature: *InputSlot OnlyOne
+
+%%EndFeature
+}featurecleanup
+mysetup concat colspRefresh
+%%EndPageSetup
+
+AdobePS_Win_Driver_Incr_L2 begin
+%%BeginResource: procset AdobePS_Win_Text 4.2 0
+/TextInit{TextInitialised? not{/Pscript_Windows_Font & d/TextInitialised? T d
+/fM[1 0 0 -1 0 0]d/mFM matrix d/iMat[1 0 0.212557 neg 1 0 0]d}if}b/copyfont{1
+^ length add dict `{1 ^/FID ne{d}{! !}?}forall & E}b/EncodeDict 9 dict d
+/bullets{{/bullet}repeat}b/rF{3 copyfont @ ` ~ EncodeDict ~ get/Encoding ~ &
+/CharStrings known{CharStrings/Eth known not{! EncodeDict/ANSIEncodingOld get}
+if}if d E}b/FDV/FDepVector d/pd_scratch 128 string d/pd_concatnames{2 copy cvs
+length 3 ^ 2 ^ cvs length @ 3 1 $ add 1 add string @ @ @ 0 9 -1 $ 7 ^ cvs
+putinterval 3 ^ 45 put 5 -2 $ cvs 4 -1 $ 1 add ~ putinterval cvn}b
+/pd_genunqname{pd_Incr @ 1 add/pd_Incr ~ d pd_scratch cvs cvn pd_InstName ~
+pd_scratch pd_concatnames}b/pd_GetAdoNotDefFont{U(AdoNotDefFont)2 copy known{
+get}{@ 11 dict `/FontName 1 ^ d/FontMatrix matrix d/FontType 0 d/FMapType 2 d
+/Encoding[0 0 0 0]d/FDepVector[/NotDefFont findfont]d & E definefont @ 4 1 $
+put}?}b/pd_FCIsCovered{@/SubsVector get @ 0 ~{add}forall 256 ge{! ! T}{length
+1 sub ~/Encoding get ~ get F}?}b/pd_CoverFCRange{@ pd_FCIsCovered not{~ @ FDV
+2 copy get @ 6 -1 $ pd_GetAdoNotDefFont put put}if}b/pd_RKSJ2Ext{{(Ext-RKSJ-H)
+}{(Ext-RKSJ-V)}? ~ @ length @ 6 sub ~ 4 add string @ @ 0 6 -1 $ @ length
+string cvs putinterval 4 2 $ ~ putinterval cvn}b/pd_FindExtFont{pd_RKSJ2Ext @{
+findfont}stopped{! ! F}{@/FontName 2 copy known{get 3 -1 $ eq @ not{~ !}if}{4{
+!}repeat F}?}?}b/pd_AddEm87{pd_FindExtFont{FDV get 2 get FDV get 7 get ~ @ FDV
+2 copy get @ length array copy @ 2 2 copy get 0 copyfont @ FDV 2 copy get @
+length @ @ 1 add array @ 0 6 -1 $ putinterval @ 4 2 $ 6 1 $ 14 -1 $ put put 1
+^/Encoding 2 copy get @ length array copy @ 6 6 -1 $ put put @/FontName
+pd_genunqname @ 4 1 $ put ~ definefont put put}if pd_CoverFCRange}b/mF{@ 7 1 $
+findfont ~{@/Encoding get @ StandardEncoding eq{! T}{{ISOLatin1Encoding}
+stopped{! F}{eq}?{T}{@ ` T 32 1 127{Encoding 1 ^ get StandardEncoding 3 -1 $
+get eq and}for E}?}?}{F}?{1 ^ ~ rF}{0 copyfont}? 6 -2 ${T pd_AddEm87 ~ !}{! ~
+!/pd_charset @ where{~ get 128 eq{@ FDV 2 copy get @ length array copy put
+pd_CoverFCRange}if}{!}?}? 2 ^ ~ definefont fM 5 4 -1 $ put fM 4 0 put fM
+makefont Pscript_Windows_Font 3 1 $ put}b/pd_IsModeSwitchAble{F/resourcestatus
+where{!/CIDParams/ProcSet 2 copy resourcestatus{! ! findresource @
+/SetBuildCompatible known ~/GetBuildCompatible known and ~ 0}if ! !}if}b
+/pd_LParams 8 dict d/pd_DefLocalParams{pd_LParams `/pd_InstName ~ d/pd_Incr 0
+d @/pd_charset ~ d/pd_SwitchAble pd_IsModeSwitchAble d/pd_PreviousMode T d ! &
+E}b/pd_IsCID-KeyedFont{/resourcestatus where{!{/CMap resourcestatus}stopped{!
+! ! F}{{! !/CIDFont resourcestatus{! ! T}{F}?}{! F}?}?}{! ! F}?}b
+/pd_SwitchToNative{F pd_SwitchAble{!/CIDParams/ProcSet findresource @
+/GetBuildCompatible get exec F 3 -1 $/SetBuildCompatible get exec}if
+/pd_PreviousMode ~ d}b/pd_IsCIDCapable{/CIDInit/ProcSet resourcestatus @{! ! !
+T}if}b/pd_mF_Finally{fM @ 4 0 put @ 5 5 -1 $ put makefont Pscript_Windows_Font
+3 1 $ put}b/pd_SwitchToPrevious{pd_SwitchAble{pd_PreviousMode/CIDParams
+/ProcSet findresource/SetBuildCompatible get exec}if}b/pd_gen90ms{{
+/90ms-RKSJ-H}{/90ms-RKSJ-V}? pd_scratch pd_concatnames}b/pd_GetHKPos{@
+/SubsVector get @ length 1 sub 0 1 ^ 1 1 3 -1 ${~ 3 ^ 2 ^ get add @ 160 eq{4 2
+$ ! ! ! exit}{~ 2 ^ ge{! ! ! 0}if}?}for ~/Encoding get ~ get}b/mF_83pv_CID{T
+pd_gen90ms[4 ^[5 -2 $ ~]/CIDInit/ProcSet findresource ` beginrearrangedfont 1
+usefont 2 beginbfrange<00><80><00><a0><df><a0>endbfrange endrearrangedfont E
+cleartomark 1 ^ findfont}b/mF_83pv_CSL{T pd_gen90ms ~ findfont @ pd_GetHKPos ~
+FDV get @ 0 get 3 1 $ ~ get 3 -1 $ findfont 0 copyfont @ pd_GetHKPos ~ @ FDV 2
+copy get @ length array copy @ 0 9 -1 $ 2 ^ 10 -2 $ ~ put put put 2 ^ ~
+definefont}b/mF_FE{6 -1 $ ! 6 ^ pd_DefLocalParams ` 2 copy pd_IsCID-KeyedFont{
+4 -1 $ ! 6 -1 ${3 -1 $ ! !/90ms-RKSJ-H 2 copy pd_scratch pd_concatnames 3 1 $}
+if pd_SwitchToNative @/83pv-RKSJ-H eq{! pd_IsCIDCapable{mF_83pv_CID}{
+mF_83pv_CSL}?}{4 ^ ~[4 -1 $]composefont ~ !}? pd_mF_Finally
+pd_SwitchToPrevious}{! !/0 3 1 $ mF}? E}b/xF{scalefont Pscript_Windows_Font 3
+1 $ put}b/xMF{mFM astore makefont Pscript_Windows_Font 3 1 $ put}b/xF2
+/scalefont , d/xMF2{mFM astore makefont}b/sLT{: Lw -M currentpoint snap M 0 -
+0 Lc K ;}b/xUP null d/yUP null d/uW null d/xSP null d/ySP null d/sW null d/sSU
+{N/uW ~ d/yUP ~ d/xUP ~ d}b/sU{xUP yUP uW sLT}b/sST{N/sW ~ d/ySP ~ d/xSP ~ d}b
+/sT{xSP ySP sW sLT}b/sR{: + R 0 0 M}b/sRxy{: matrix astore concat 0 0 M}b/eR/;
+, d/AddOrigFP{{&/FontInfo known{&/FontInfo get length 6 add}{6}? dict `
+/WinPitchAndFamily ~ d/WinCharSet ~ d/OrigFontType ~ d/OrigFontStyle ~ d
+/OrigFontName ~ d & E/FontInfo ~ d}{! ! ! ! !}?}b/G00GFFEncoding[/G00/G01/G02
+/G03/G04/G05/G06/G07/G08/G09/G0A/G0B/G0C/G0D/G0E/G0F/G10/G11/G12/G13/G14/G15
+/G16/G17/G18/G19/G1A/G1B/G1C/G1D/G1E/G1F/G20/G21/G22/G23/G24/G25/G26/G27/G28
+/G29/G2A/G2B/G2C/G2D/G2E/G2F/G30/G31/G32/G33/G34/G35/G36/G37/G38/G39/G3A/G3B
+/G3C/G3D/G3E/G3F/G40/G41/G42/G43/G44/G45/G46/G47/G48/G49/G4A/G4B/G4C/G4D/G4E
+/G4F/G50/G51/G52/G53/G54/G55/G56/G57/G58/G59/G5A/G5B/G5C/G5D/G5E/G5F/G60/G61
+/G62/G63/G64/G65/G66/G67/G68/G69/G6A/G6B/G6C/G6D/G6E/G6F/G70/G71/G72/G73/G74
+/G75/G76/G77/G78/G79/G7A/G7B/G7C/G7D/G7E/G7F/G80/G81/G82/G83/G84/G85/G86/G87
+/G88/G89/G8A/G8B/G8C/G8D/G8E/G8F/G90/G91/G92/G93/G94/G95/G96/G97/G98/G99/G9A
+/G9B/G9C/G9D/G9E/G9F/GA0/GA1/GA2/GA3/GA4/GA5/GA6/GA7/GA8/GA9/GAA/GAB/GAC/GAD
+/GAE/GAF/GB0/GB1/GB2/GB3/GB4/GB5/GB6/GB7/GB8/GB9/GBA/GBB/GBC/GBD/GBE/GBF/GC0
+/GC1/GC2/GC3/GC4/GC5/GC6/GC7/GC8/GC9/GCA/GCB/GCC/GCD/GCE/GCF/GD0/GD1/GD2/GD3
+/GD4/GD5/GD6/GD7/GD8/GD9/GDA/GDB/GDC/GDD/GDE/GDF/GE0/GE1/GE2/GE3/GE4/GE5/GE6
+/GE7/GE8/GE9/GEA/GEB/GEC/GED/GEE/GEF/GF0/GF1/GF2/GF3/GF4/GF5/GF6/GF7/GF8/GF9
+/GFA/GFB/GFC/GFD/GFE/GFF]readonly d
+%%EndResource
+
+%%BeginResource: procset AdobePS_Win_Encoding 4.2 0
+/ANSIEncoding[/grave/acute/circumflex/tilde/macron/breve/dotaccent/dieresis
+/ring/cedilla/hungarumlaut/ogonek/caron/dotlessi 18 bullets StandardEncoding
+32 95 getinterval aload !/.notdef/.notdef/.notdef/quotesinglbase/florin
+/quotedblbase/ellipsis/dagger/daggerdbl/circumflex/perthousand/Scaron
+/guilsinglleft/OE/.notdef/.notdef/.notdef/.notdef/quoteleft/quoteright
+/quotedblleft/quotedblright/bullet/endash/emdash/tilde/trademark/scaron
+/guilsinglright/oe/.notdef/.notdef/Ydieresis{ISOLatin1Encoding}stopped{96
+bullets}{160 96 getinterval aload !}?]d ANSIEncoding @ 39/quotesingle put 96
+/grave put/ANSIEncodingOld ANSIEncoding 256 array copy d ANSIEncodingOld @[138
+153 154 169 172 174 177 178 179 181 185 188 189 190 208 215 221 222 240 247
+253 254]{/bullet put @}forall 166/bar put 176/ring put EncodeDict/0
+ANSIEncoding put EncodeDict/ANSIEncodingOld ANSIEncodingOld put
+%%EndResource
+
+end reinitialize 
+
+%%IncludeResource: font Courier
+false /F0 .8 /0 true (Courier) cvn mF 
+/F0S100 F0 100 xF 
+F0S100 Ji 
+0 0 0 sco 542 606 M 
+(program analisa_ekpresi_aljabar;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 ] XSE 
+2462 606 M 
+( )S 
+542 719 M 
+({ versi sabtu })[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1442 719 M 
+( )S 
+542 833 M 
+(uses crt;)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 833 M 
+( )S 
+542 946 M 
+(var ekspresi : string;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1862 946 M 
+( )S 
+542 1059 M 
+(    )[ 60 60 60 60 ] XSE 
+542 1173 M 
+(batas_kiri,batas_kanan,proses,sekarang,i,j,jumlah_tanda,panjang : )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+542 1286 M 
+(byte;)[ 60 60 60 60 60 ] XSE 
+842 1286 M 
+( )S 
+542 1399 M 
+(    tanda,karakter : array[1..255] of string[1];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 1399 M 
+( )S 
+542 1512 M 
+(    str_temp,suku_kiri,suku_kanan: string[2)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3122 1512 M 
+(];)[ 60 60 ] XSE 
+3242 1512 M 
+( )S 
+542 1626 M 
+(    prioritas : array[1..255] of byte;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 ] XSE 
+2822 1626 M 
+( )S 
+542 1739 M 
+(    cari_prioritas, selesai : boolean;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 ] XSE 
+2822 1739 M 
+( )S 
+542 1852 M 
+(    substitusi : string[6];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2162 1852 M 
+( )S 
+542 1966 M 
+(    jumlah_tanda_asli,nilai: byte;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 1966 M 
+( )S 
+542 2079 M 
+(    kode_error : integer;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2042 2079 M 
+( )S 
+542 2192 M 
+( )S 
+542 2306 M 
+(begin)[ 60 60 60 60 60 ] XSE 
+842 2306 M 
+( )S 
+542 2419 M 
+(   clrscr;)[ 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1142 2419 M 
+( )S 
+542 2532 M 
+(   ekspresi := 'c/d*e/f^g';)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2162 2532 M 
+( )S 
+542 2645 M 
+(   ekspresi := 'a)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1562 2645 M 
+(-)S 
+1622 2645 M 
+(b+c/d*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2282 2645 M 
+(-)S 
+2342 2645 M 
+(h*j';)[ 60 60 60 60 60 ] XSE 
+2642 2645 M 
+( )S 
+542 2759 M 
+(   panjang  := length\(ekspresi\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 ] XSE 
+2462 2759 M 
+( )S 
+542 2872 M 
+(   jumlah_tanda := 0;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 2872 M 
+( )S 
+542 2985 M 
+(   proses := 0;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1442 2985 M 
+( )S 
+542 3099 M 
+( )S 
+542 3212 M 
+({)S 
+602 3212 M 
+( )S 
+542 3325 M 
+(  proses mencari jumlah operator dan operator apa saja)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 3325 M 
+( )S 
+542 3439 M 
+(  yang ada beserta tingkatnya                           })[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3962 3439 M 
+( )S 
+542 3552 M 
+( )S 
+542 3665 M 
+(   for i:=1 to panjang do)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2042 3665 M 
+( )S 
+542 3778 M 
+(       begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 3778 M 
+( )S 
+542 3892 M 
+(          ka)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 3892 M 
+(rakter[i] := copy\(ekspresi,i,1\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 ] XSE 
+3182 3892 M 
+( )S 
+542 4005 M 
+(          if \(karakter[i]=')[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2162 4005 M 
+(-)S 
+2222 4005 M 
+('\) or \(karakter[i]='+'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3902 4005 M 
+( )S 
+542 4118 M 
+(             begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 4118 M 
+( )S 
+542 4232 M 
+(                inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 4232 M 
+( )S 
+542 4345 M 
+(                prioritas[jumlah_tanda] := 1;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3242 4345 M 
+( )S 
+542 4458 M 
+(                tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3602 4458 M 
+( )S 
+542 4572 M 
+(        )[ 60 60 60 60 60 60 60 60 ] XSE 
+1022 4572 M 
+(     end)[ 60 60 60 60 60 60 60 60 ] XSE 
+1502 4572 M 
+( )S 
+542 4685 M 
+(          else)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 4685 M 
+( )S 
+542 4798 M 
+(             if \(karakter[i]='/'\) or \(karakter[i]='*'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4082 4798 M 
+( )S 
+542 4911 M 
+(                begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 4911 M 
+( )S 
+542 5025 M 
+(                   inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 5025 M 
+( )S 
+542 5138 M 
+(                   prioritas[jumlah_tanda] := 2;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 5138 M 
+( )S 
+542 5251 M 
+(                   tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 5251 M 
+( )S 
+542 5365 M 
+( )S 
+602 5365 M 
+(               end)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1682 5365 M 
+( )S 
+542 5478 M 
+(             else)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1562 5478 M 
+( )S 
+542 5591 M 
+(               if \(karakter[i]='^'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 5591 M 
+( )S 
+542 5705 M 
+(                begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 5705 M 
+( )S 
+542 5818 M 
+(                   inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 5818 M 
+( )S 
+
+LH 
+
+(%%[ Page: 1 ]%%)  = flush
+%%PageTrailer
+
+%%Page: 2 2
+%%BeginPageSetup
+featurebegin{
+
+}featurecleanup
+featurebegin{
+%%BeginFeature: *InputSlot OnlyOne
+
+%%EndFeature
+}featurecleanup
+mysetup concat colspRefresh
+%%EndPageSetup
+
+F0S100 Ji 
+0 0 0 sco 542 606 M 
+(                   prioritas[jumlah_tanda] := 3;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 606 M 
+( )S 
+542 719 M 
+(                   tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 719 M 
+( )S 
+542 833 M 
+(       )[ 60 60 60 60 60 60 60 ] XSE 
+962 833 M 
+(         end;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1742 833 M 
+( )S 
+542 946 M 
+(       end;)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1202 946 M 
+( )S 
+542 1059 M 
+(       jumlah_tanda_asli := jumlah_tanda;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 1059 M 
+( )S 
+542 1173 M 
+( )S 
+542 1286 M 
+(       { mencari operator mana yang akan dikerjakan terlebih )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+542 1399 M 
+(dahulu })[ 60 60 60 60 60 60 60 60 ] XSE 
+1022 1399 M 
+( )S 
+542 1512 M 
+(       cari_prioritas := false;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2402 1512 M 
+( )S 
+542 1626 M 
+(       repeat)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1322 1626 M 
+( )S 
+542 1739 M 
+(          sekarang := 1;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 1739 M 
+( )S 
+542 1852 M 
+(          for i:=1 to jumlah_tanda do)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 1852 M 
+( )S 
+542 1966 M 
+(             begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 1966 M 
+( )S 
+542 2079 M 
+(                if prioritas[sekarang+1]>prioritas[sekarang] then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 ] XSE 
+4442 2079 M 
+( )S 
+542 2192 M 
+(                   sekarang := sekarang+1)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 2192 M 
+( )S 
+542 2306 M 
+(                else)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1742 2306 M 
+( )S 
+542 2419 M 
+(                   cari_prioritas:=true;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 2419 M 
+( )S 
+542 2532 M 
+(             end;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1562 2532 M 
+( )S 
+542 2645 M 
+(       until cari_prioritas;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 2645 M 
+( )S 
+542 2759 M 
+(       seles)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 2759 M 
+(ai := false;)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 2759 M 
+( )S 
+542 2872 M 
+(repeat)[ 60 60 60 60 60 60 ] XSE 
+902 2872 M 
+( )S 
+542 2985 M 
+(       inc\(proses\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1682 2985 M 
+( )S 
+542 3099 M 
+(       writeln\('ekspresi : ',ekspresi\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 3099 M 
+( )S 
+542 3212 M 
+(       write\('tanda ke : ',sekarang,' yang mau dikerjakan '\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4202 3212 M 
+( )S 
+542 3325 M 
+(       textcolor\(yellow+blink\);writeln\(tanda[sekarang]\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3902 3325 M 
+( )S 
+542 3439 M 
+(       textcolor\(white\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 3439 M 
+( )S 
+542 3552 M 
+(       batas_kiri  := 2*s)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2042 3552 M 
+(ekarang)[ 60 60 60 60 60 60 60 ] XSE 
+2462 3552 M 
+(-)S 
+2522 3552 M 
+(1;)[ 60 60 ] XSE 
+2642 3552 M 
+( )S 
+542 3665 M 
+(       batas_kanan := 2*sekarang+1;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 ] XSE 
+2642 3665 M 
+( )S 
+542 3778 M 
+(       writeln\('batas kiri : ',batas_kiri,' batas kanan : )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+542 3892 M 
+(',batas_kanan\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1442 3892 M 
+( )S 
+542 4005 M 
+(       writeln\('karakter batas kiri : ',karakter[batas_kiri],' ',)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 ] XSE 
+4442 4005 M 
+( )S 
+542 4118 M 
+(               'karakter batas kanan : ',karakter[batas_kanan]\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+] XSE 
+4382 4118 M 
+( )S 
+542 4232 M 
+(       suku_kiri  := karakter[batas_kiri];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3062 4232 M 
+( )S 
+542 4345 M 
+(       { kalau suku kiri=1 ini artinya x1,)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3062 4345 M 
+( )S 
+542 4458 M 
+(         kalau suku kiri=2 ini artinya x2, dan seterusnya })[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4082 4458 M 
+( )S 
+542 4572 M 
+(       val\(suku_kiri,nilai,kode_error\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 4572 M 
+( )S 
+542 4685 M 
+(       if \(nilai>0\) then suku_kiri:='x'+suku_kiri;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3542 4685 M 
+( )S 
+542 4798 M 
+( )S 
+542 4911 M 
+(       suku)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1202 4911 M 
+(_kanan := karakter[batas_kanan];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 ] XSE 
+3122 4911 M 
+( )S 
+542 5025 M 
+(       val\(suku_kanan,nilai,kode_error\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 5025 M 
+( )S 
+542 5138 M 
+(       if \(nilai>0\) then suku_kanan:='x'+suku_kanan;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3662 5138 M 
+( )S 
+542 5251 M 
+( )S 
+542 5365 M 
+(       substitusi := suku_kiri+tanda[sekarang]+suku_kanan;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4022 5365 M 
+( )S 
+542 5478 M 
+( )S 
+542 5591 M 
+(       str\(proses,str_temp\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 5591 M 
+( )S 
+542 5705 M 
+(           writeln\(')[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1742 5705 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+2282 5705 M 
+( su)[ 60 60 60 ] XSE 
+2462 5705 M 
+(bstitusi x',str_temp,'=',)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3962 5705 M 
+( )S 
+542 5818 M 
+(                   substitusi,' )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 ] XSE 
+2462 5818 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3122 5818 M 
+('\);)[ 60 60 60 ] XSE 
+3302 5818 M 
+( )S 
+
+LH 
+
+(%%[ Page: 2 ]%%)  = flush
+%%PageTrailer
+
+%%Page: 3 3
+%%BeginPageSetup
+featurebegin{
+
+}featurecleanup
+featurebegin{
+%%BeginFeature: *InputSlot OnlyOne
+
+%%EndFeature
+}featurecleanup
+mysetup concat colspRefresh
+%%EndPageSetup
+
+F0S100 Ji 
+0 0 0 sco 542 606 M 
+(       ekspresi := '';)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1862 606 M 
+( )S 
+542 719 M 
+(       for i:=1 to batas_kiri)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2282 719 M 
+(-)S 
+2342 719 M 
+(1 do ekspresi:=ekspresi+karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 ] XSE 
+4502 719 M 
+( )S 
+542 833 M 
+(       ekspresi := ekspresi + str_temp;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 833 M 
+( )S 
+542 946 M 
+(       for i:=batas_kanan+1 to panjang do )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+542 1059 M 
+(ekspre)[ 60 60 60 60 60 60 ] XSE 
+902 1059 M 
+(si:=ekspresi+karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2402 1059 M 
+( )S 
+542 1173 M 
+(       writeln\('ekspresi baru setelah direduksi : ',ekspresi\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4262 1173 M 
+( )S 
+542 1286 M 
+( )S 
+542 1399 M 
+({ proses seperti di awal kembali })[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 1399 M 
+( )S 
+542 1512 M 
+({)S 
+602 1512 M 
+( )S 
+542 1626 M 
+(  proses mencari jumlah operator dan operator apa saja)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 1626 M 
+( )S 
+542 1739 M 
+(  yang ada beserta tingkatnya                           })[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3962 1739 M 
+( )S 
+542 1852 M 
+(   panjan)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 1852 M 
+(g  := length\(ekspresi\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2462 1852 M 
+( )S 
+542 1966 M 
+(   jumlah_tanda := 0;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 1966 M 
+( )S 
+542 2079 M 
+( )S 
+542 2192 M 
+(   for i:=1 to panjang do)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2042 2192 M 
+( )S 
+542 2306 M 
+(       begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 2306 M 
+( )S 
+542 2419 M 
+(          karakter[i] := copy\(ekspresi,i,1\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3182 2419 M 
+( )S 
+542 2532 M 
+(          if \(karakter[i]=')[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2162 2532 M 
+(-)S 
+2222 2532 M 
+('\) or \(karakter[i]='+'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3902 2532 M 
+( )S 
+542 2645 M 
+(             begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 2645 M 
+( )S 
+542 2759 M 
+(                inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 2759 M 
+( )S 
+542 2872 M 
+(     )[ 60 60 60 60 60 ] XSE 
+842 2872 M 
+(           prioritas[jumlah_tanda] := 1;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3242 2872 M 
+( )S 
+542 2985 M 
+(                tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3602 2985 M 
+( )S 
+542 3099 M 
+(             end)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1502 3099 M 
+( )S 
+542 3212 M 
+(          else)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 3212 M 
+( )S 
+542 3325 M 
+(             if \(karakter[i]='/'\) or \(karakter[i]='*'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4082 3325 M 
+( )S 
+542 3439 M 
+(                begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 3439 M 
+( )S 
+542 3552 M 
+(                   inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 3552 M 
+( )S 
+542 3665 M 
+(    )[ 60 60 60 60 ] XSE 
+782 3665 M 
+(               prioritas[jumlah_tanda] := 2;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 3665 M 
+( )S 
+542 3778 M 
+(                   tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 3778 M 
+( )S 
+542 3892 M 
+(                end)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1682 3892 M 
+( )S 
+542 4005 M 
+(             else)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1562 4005 M 
+( )S 
+542 4118 M 
+(               if \(karakter[i]='^'\) then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 4118 M 
+( )S 
+542 4232 M 
+(                begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1802 4232 M 
+( )S 
+542 4345 M 
+(                   inc\(jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 4345 M 
+( )S 
+542 4458 M 
+(          )[ 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1142 4458 M 
+(         prioritas[jumlah_tanda] := 3;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 ] XSE 
+3422 4458 M 
+( )S 
+542 4572 M 
+(                   tanda[jumlah_tanda] := karakter[i];)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3782 4572 M 
+( )S 
+542 4685 M 
+(                end;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1742 4685 M 
+( )S 
+542 4798 M 
+(       end;)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1202 4798 M 
+( )S 
+542 4911 M 
+( )S 
+542 5025 M 
+(       { mencari operator mana yang akan dikerjakan terlebih )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+542 5138 M 
+(dahulu })[ 60 60 60 60 60 60 60 60 ] XSE 
+1022 5138 M 
+( )S 
+542 5251 M 
+(       cari_prioritas := false;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2402 5251 M 
+( )S 
+542 5365 M 
+(       writeln\('jum)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1682 5365 M 
+(lah tanda ',jumlah_tanda\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3242 5365 M 
+( )S 
+542 5478 M 
+(       repeat)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1322 5478 M 
+( )S 
+542 5591 M 
+(          sekarang := 1;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 5591 M 
+( )S 
+542 5705 M 
+(          for i:=1 to jumlah_tanda do)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 ] XSE 
+2762 5705 M 
+( )S 
+542 5818 M 
+(             begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 5818 M 
+( )S 
+
+LH 
+
+(%%[ Page: 3 ]%%)  = flush
+%%PageTrailer
+
+%%Page: 4 4
+%%BeginPageSetup
+featurebegin{
+
+}featurecleanup
+featurebegin{
+%%BeginFeature: *InputSlot OnlyOne
+
+%%EndFeature
+}featurecleanup
+mysetup concat colspRefresh
+%%EndPageSetup
+
+F0S100 Ji 
+0 0 0 sco 542 606 M 
+(                if prioritas[sekarang+1]>prioritas[sekarang] then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 ] XSE 
+4442 606 M 
+( )S 
+542 719 M 
+(                   sekarang := sekarang+1)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 719 M 
+( )S 
+542 833 M 
+(                el)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 833 M 
+(se)[ 60 60 ] XSE 
+1742 833 M 
+( )S 
+542 946 M 
+(                   cari_prioritas:=true;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 946 M 
+( )S 
+542 1059 M 
+(             end;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1562 1059 M 
+( )S 
+542 1173 M 
+(             if jumlah_tanda=1 then cari_prioritas:=true;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3962 1173 M 
+( )S 
+542 1286 M 
+(       until cari_prioritas;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 1286 M 
+( )S 
+542 1399 M 
+(       selesai := false;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 1399 M 
+( )S 
+542 1512 M 
+(       if jumlah_tanda=1 then)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2282 1512 M 
+( )S 
+542 1626 M 
+(          begin)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1442 1626 M 
+( )S 
+542 1739 M 
+(              str\(jumlah_tan)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 1739 M 
+(da_asli,str_temp\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3302 1739 M 
+( )S 
+542 1852 M 
+(              writeln\(')[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1922 1852 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+2462 1852 M 
+( )S 
+542 1966 M 
+(x',str_temp,'=x',karakter[1],karakter[2],'x',karakter[3]\);)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+4022 1966 M 
+( )S 
+542 2079 M 
+(              if jumlah_tanda=1 then selesai:=true;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3602 2079 M 
+( )S 
+542 2192 M 
+(          end;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 2192 M 
+( )S 
+542 2306 M 
+(       readln;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 2306 M 
+( )S 
+542 2419 M 
+(until selesai;)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 2419 M 
+( )S 
+542 2532 M 
+(end.)[ 60 60 60 60 ] XSE 
+782 2532 M 
+( )S 
+542 2645 M 
+( )S 
+AdobePS_Win_Driver_Incr_L2 begin
+%%BeginResource: procset AdobePS_Win_Type42 4.2 0
+/asc42 0 d/sF42{/asc42 ~ d Ji}bind d/bS42{0 asc42 -M}bind d/eS42{0 asc42 neg
+-M}b/Type42Encoding{/Encoding G00GFFEncoding d}bind d/Type42DictBegin{
+/PaintType 0 d/FontType 42 d/FontMatrix[1 0 0 1 0 0]d ! 4 array astore cvx
+/FontBBox ~ d/sfnts}bind d/t42CSB{/CharStrings 266 dict `/.notdef 0 d 0 1 255{
+G00GFFEncoding ~ get 0 d}for & E d}bind d/T42NumChars 0 d/T42StartIndex 0 d
+/t42BBC{/T42NumChars ~ d/T42StartIndex ~ d}bind d/t42EBC{1 1 T42NumChars{!
+CharStrings 3 1 $ put}for}bind d/t42CSE{}bind d/Is2015?{version cvi 2015 ge}
+bind d/AllocGlyphStorage{Is2015?{!}{{string}forall}?}bind d/PrepFor2015{
+Is2015?{/GlyphDirectory 16 dict d sfnts 0 get @ 2 ^(glyx)putinterval 2 ^(locx)
+putinterval ! !}{! !}?}bind d/AddT42Char{Is2015?{findfont/GlyphDirectory get `
+d E ! !}{findfont/sfnts get 4 ^ get 3 ^ 2 ^ putinterval ! ! ! !}?}bind d
+/Type42DescendantEncoding{/Type42DescendantEncoding G00GFFEncoding d}bind d
+/Type0Encoding{/Encoding ~ @ array @ 3 -1 $ 1 sub 0 1 3 -1 ${@ put @}for ! d}
+bind d/Type0DictBegin{/FontType 0 d/FMapType 2 d/FontMatrix[1 0 0 1 0 0]d
+/sfnts}bind d/Type42DescendantCharString{/GlyphIndex ~ d/maxGlyphs ~ d 0 1 3
+-1 $ 1 sub{@ @ 10 lt{! 11 string}{100 lt{12 string}{13 string}?}? @ 0
+(CharString)putinterval @ 3 -1 $ 3 string cvs 10 ~ putinterval cvn 256 dict @
+3 1 $ d Type42DescendantEncoding{1 ^ ~ GlyphIndex maxGlyphs lt{GlyphIndex put
+/GlyphIndex GlyphIndex 1 add d}{! !}?}forall !}for}bind d/AddGDirDict{Is2015?{
+/GlyphDirectory get/GlyphDirectory ~ d}{!}?}bind d/RD{string currentfile ~
+readstring !}executeonly d/B42CS{{/GITable ~ d/BeginCharCode GITable 0 get d
+/EndCharCode GITable 1 get d CharStrings ` BeginCharCode 1 EndCharCode{@
+Encoding ~ get ~ BeginCharCode sub 2 add GITable ~ get d}for E}{!}?}bind d
+/CIDT42Hdr{25 dict `{/XUID ~ d}if @/WMode ~ d 0 gt{/Metrics2 16 dict d
+/CDevProc{! @ 1.9 gt 3 ^ neg 0.99 gt or{! 0.85}{4 ^ add}?}bind d/FontMatrix[0
+1 -1 0 0 0]d}{/FontMatrix[1 0 0 1 0 0]d}?/Encoding StandardEncoding d
+/CharStrings 2 dict @ `/.notdef 0 d E d/CIDMap ~ d/CIDCount ~ d/CIDFontName ~
+d AddOrigFP/CIDSystemInfo 3 dict @ ` 3 -1 $/Supplement ~ d 3 -1 $/Ordering ~ d
+3 -1 $/Registry ~ d E d/GDBytes 2 d/CIDFontType 2 d/FontType 42 d/PaintType 0
+d ! 4 array astore cvx/FontBBox ~ d/sfnts}bind d/T0AddT42Mtx2{/CIDFont
+findresource/Metrics2 get ` d E}bind d/UpdateCIDMap{/CIDFont findresource
+/CIDMap get 3 1 $ putinterval}d/T0AddT42Char{/CIDFont findresource
+/GlyphDirectory get ` d E ! !}bind d/CIDT42Tlr{CIDFontName & E/CIDFont
+defineresource !}d/CopyT42Hdr{findfont @ length dict `{1 ^/FID ne{1 ^
+/CharStrings ne{d}{@ length dict `{1 ^/.notdef ne{! !}{d}?}forall & E d}?}{! !
+}?}forall & E `/FontName ~ d/FontType 42 d B42CS FontName & E definefont !}
+bind d/t42MF{findfont 0 copyfont `/FontName ~ d/Encoding G00GFFEncoding d get
+/CharStrings ~ @/.notdef 0 put d & @ E/FontName get ~ definefont !}bind d
+%%EndResource
+
+end reinitialize 
+
+19431  VM?
+15 dict begin
+/FontName /MSTT31d0588af5t def
+1 Type0Encoding
+Type42DescendantEncoding
+1 222 0 Type42DescendantCharString
+Type0DictBegin
+[ < 00010000000A000A000A000A63767420F9EA872F000000AC0000067E6670676DF113F874000007
+2C00000548676C79665F29FDDA000021940000EA7068656164C214A23E00000C74000000366868
+65610F55068C00000CAC00000024686D7478BB2435F600000CD0000003786C6F6361006FC8D200
+0010480000037C6D61787006D90E93000013C400000020707265705247C9F9000013E400000DAE
+67646972000000000000000000000000058E001F054C001F054C001C0394001B0000FFE10000FF
+E40000FFE8FE4AFFFC056B0023FE6AFFE003130000012400000124000000000000000000250084
+002400E8009600BF005D00CB02030045012E005800040118001900020139004B01100017000501
+0A00280023004B00500015004A00E5010D00AF003100EA014600810125004F009C0022004E0016
+0041009100A00147FFE9008100D3016900AB001700A801400027004C0148FFDF00510050FFB701
+2E0000003B0097009A010E001F004C010A0123FFDE00220073008700BA00D600FF005A009805A0
+FFE900500052006EFFB7005C00D1015A015BFF1C0049006E007E009800A100BD00E4018801C004
+05FF600035006200720107011301280382FFA8003805D809B5FFC4FFD00010006E00A100BA00EC
+022B0446FFEE004000E80401FF680003001300330033006E00A200B600DC011801350343000E00
+34005C005D007C00AF0328003B00480089009C00BA017B01AF030EFFA4001700370063007F00E0
+017801C0022105D805F0FF7A0012002700340052008A00A400C100C300EB011801460154036DFE
+3FFF4E00010008002B0045006E0084008600AE00AF00C200C200C4010F01210149017B01C101DE
+01E1036E03E6006300A700ED00F600F801280169017E023F02820532FD81FFB500260035004000
+4500490057006C00AC01260140015B017B019C0277027E027F03B603DC042804EFFF38FFC30006
+002F0040008200AA00B600CE00D300D700E50146014D01D6027E03B30586FF7B0012002F006800
+7F008400A500B900F501050109010C01140120013301370178017B01C001E1021D022302580362
+03AF058CFF79FF8D00210024005D00650068006A0083008500B700CF00E200EB00ED011A012001
+2F0137013F0150018D018F01C402CF0357035C03960440049604AB04C204FC051105C2FED1FEE0
+0013002100240030004D004D005D0066007A007C00B800B800C300DA0103011B011E012F013D01
+4A0150015F0166017C0190019501A301A601B601C701D001E901EF01F90218028C029402BB02C5
+02CF02D0031D032A0344039F03CC042104DA04FB0761FD1DFEBFFEEFFF0BFF2BFF33FF90FF9CFF
+DBFFED00010008001C0025003F0043005A006B0080008400900095009D00A700B400CD00D500D6
+00DF00DF00DF00E400F000F600FB010601130119011B012201230127012C013F01570158017701
+8A019301A401C601E101E401FC0200020C02220222022A0236024A025C028202EC02FC030A0323
+03410378039703D203FA04790532053205AB05B505F006E4072508CCFC9BFDDEFE00FE69FE96FE
+9BFF3500030006000E00130019003400420048004A0057006400710071007200760077007A007A
+0083009C00AF00AF00B200BB00C800CC00CF00CF00DB00DC00DF00E400E400E400E900EB00F400
+FD00FE01020105010501080108011B01220123013001370143015B016001650178017801780178
+017B0182018901980198019B019E01A101A601D101D201D301DF01E301F502000200022D024102
+47024A0250025B025D025D025F02630281028B02B402B402CE02D602DB02E202FA03100311031F
+0327034503670388038A03B003B403D403D5042604410448046B04C704D1053205480549055F05
+63058B05A105A305C205CA05E405FF069306A206B806E8070A073607500754078907A907BB07DC
+07FF08270120014D011B0129000000000000000000000093015B042F029001FF02B800DB00BE02
+7403CB029401AB000000000000000000000000058A038A0364005F02B803BD029D7C9003E203AC
+02820000044400000000003D010A00CC00BC00CC05D3041505E800C7021A00EE00000194036102
+BE029902180136033B048504CC0050007905A305A302DF020702AF000001EB0064005F00550119
+00F2045600EF00C800CF058A0143014602DE01AB02C6024A005D00D800A402BB009900A0006501
+370274036400B500FA009101B9032001B60025007F00D000EC00E000000000000000000000042F
+FD42023F06180276063A013701B90151FFC70229FFEB023F02E1018500DB03FA01900156014E01
+2F00A600E300BB00D50134011F04FE041B00D100E4011E009B00CD00E700B300E200CA042400B8
+00F500B90334005A04E00123012FFDC9FE440574038301F602410002001700500015004F001700
+A80051009800520049006E000E00AF017B017B019C006A008300EB00CD0122000005D306DA009A
+008F00BA0315002503A5028002FF03C80420009200E0034C009B007D00F8011C013400A8006D00
+6900004040403F3E3D3C3B3A3938373534333231302F2E2D2C2B2A292827262524232221201F1E
+1D1C1B1A191817161514131211100F0E0D0C0B0A090807060504030201002C4523466020B02660
+B004262348482D2C452346236120B02661B004262348482D2C45234660B0206120B04660B00426
+2348482D2C4523462361B0206020B02661B02061B004262348482D2C45234660B0406120B06660
+B004262348482D2C4523462361B0406020B02661B04061B004262348482D2C0110203C003C2D2C
+20452320B0CD442320B8015A51582320B08D44235920B0ED51582320B04D44235920B090515823
+20B00D44235921212D2C20204518684420B001602045B04676688A4560442D2C01B10B0A432343
+650A2D2C00B10A0B4323430B2D2C00B0172370B101173E01B0172370B10217453AB10200080D2D
+2C45B01A234445B01923442D2C2045B00325456164B050515845441B2121592D2CB00143632362
+B0002342B00F2B2D2C2045B0004360442D2C01B00643B00743650A2D2C2069B04061B0008B20B1
+2CC08A8CB8100062602B0C642364615C58B00361592D2C45B0112BB0172344B0177AE4182D2C45
+B0112BB01723442D2CB01243588745B0112BB0172344B0177AE41B038A45186920B01723448A8A
+8720B0A05158B0112BB0172344B0177AE41B21B0177AE45959182D2C2D2CB0022546608A46B040
+618C482D2C4B53205C58B002855958B00185592D2C20B0032545B019234445B01A234445652345
+20B00325606A20B009234223688A6A606120B01A8AB000527921B21A1A40B9FFE0001A45208A54
+582321B03F1B235961441CB114008A5279B31940201945208A54582321B03F1B235961442D2CB1
+10114323430B2D2CB10E0F4323430B2D2CB10C0D4323430B2D2CB10C0D432343650B2D2CB10E0F
+432343650B2D2CB11011432343650B2D2C4B525845441B2121592D2C0120B003252349B04060B0
+206320B000525823B002253823B002256538008A63381B212121212159012D2C4BB06451584569
+B00943608A103A1B212121592D2C01B005251023208AF500B0016023EDEC2D2C01B00525102320
+8AF500B0016123EDEC2D2C01B0062510F500EDEC2D2C20B001600110203C003C2D2C20B0016101
+10203C003C2D2CB02B2BB02A2A2D2C00B00743B006430B2D2C3EB02A2A2D2C352D2C76B8029F23
+701020B8029F4520B0005058B00161593A2F182D2C21210C6423648BB84000622D2C21B0805158
+0C6423648BB82000621BB200402F2B59B002602D2C21B0C051580C6423648BB81555621BB20080
+2F2B59B002602D2C0C6423648BB84000626023212D2CB4000100000015B00826B00826B00826B0
+08260F10161345683AB001162D2CB4000100000015B00826B00826B00826B008260F1016134568
+653AB001162D2C4B53234B515A5820458A60441B2121592D2C4B545820458A60441B2121592D2C
+4B53234B515A58381B2121592D2C4B5458381B2121592D2CB0134358031B02592D2CB013435802
+1B03592D2C4B54B012435C5A58381B2121592D2CB012435C580CB00425B00425060C6423646164
+B807085158B00425B00425012046B01060482046B0106048590A21211B2121592D2CB012435C58
+0CB00425B00425060C6423646164B807085158B00425B00425012046B8FFF060482046B8FFF060
+48590A21211B2121592D2C4B53234B515A58B03A2B1B2121592D2C4B53234B515A58B03B2B1B21
+21592D2C4B53234B515AB012435C5A58381B2121592D2C0C8A034B54B00426024B545A8A8A0AB0
+12435C5A58381B2121592D2C462346608A8A462320468A608A61B8FF8062232010238AB9032703
+278A70456020B0005058B00161B8FFBA8B1BB0468C59B0106068013A2D00010000000280005908
+A9B95F0F3CF50819080000000000A2E3354600000000B028A292FFC7FE46081307210001000900
+01000100000000000100000721FE4500570800FFC7FF6808130001000000000000000000000000
+000000DE0639011C00000000020000000200000002AA00AF047100B0040000280400004F080000
+8E06AA00520239008C02AA005202AA001904000072048F00280200004202AA00320200005A0239
+00020400004A04000087040000320400002104000033040000450400004C040000450400004804
+00003F02AA00AF02AA0098048F0029048F0028048F00290400007D0771005C05C700100556002B
+05C7005105C7001B0556002904E3002E063900530639002B031D0029040000160639002E055600
+26078D002905C7001D0639005004E300340639005005C700260473006A0556004A05C7003005C7
+00100800001205C7000E05C700120556002102AA00D60239000202AA004304A600930400FFED02
+AA00260400005C0473002B038D004E0473004F038D004F02AA00420400004D047300460239002A
+02AAFFC7047300440239002B06AA004C047300460400004A047300270473004E038D004B031D00
+5102AA00260473003F0400001305C700110400002F04000011038D0015032700A501C3009F0327
+005B0429000C05C7001005C7001105C700510556002905C7001D0639005005C700470400005C04
+00005C0400005C0400005C0400005C0400005C038D004E038D004F038D004F038D004F038D004F
+0239002B0239FFF10239FFDD0239FFE30473004604000049040000490400004904000049040000
+490473003F0473003F0473003F0473003F040000630333003B04000080040000230400005C02CD
+004D045200010473003A05FA003B05FA003B0800FFFD02AA00E402AA00160800FFE90639005104
+64000F04000000049C004F0266002E02A4003805C7005A040000440400007302AA00AF048F0029
+0400FFFF0400002404000026080000AF05C7001005C70010063900500800004A05C700460400FF
+EF0800FFEC040000510400005302AA009802AA0098046400100400001205C700110400001502AA
+005D02AA005F0400006E0200005902AA0098040000530800003B05C700100556002905C7001005
+56002905560029031D0029031D0029031D0029031D002806390050063900500639005005C70047
+05C7004705C700470239002A02AA001502AA001402AA008402AA009102AA00150473006B031D00
+4505560022038D001501C3009F05C700230400004A05C700110400001104E3002904730027048F
+009A0266004A026600180266000F06000048060000480600000D0400FFED0400FFE90000000000
+00006C0000006C0000006C0000006C00000146000001FC000003D8000005D40000080400000A1A
+00000A7200000B0E00000BAC00000D6A00000DF400000E7600000EAC00000EFC00000F52000011
+28000011FA00001342000014920000156400001724000018720000193C00001ADC00001C1C0000
+1C9C00001D6000001E1200001E8200001F3E00002048000022EE0000249A000026880000281E00
+0029AE00002B8E00002D3200002F3E0000313A00003224000032F80000350C0000360E00003802
+000039E000003C0000003D4200003F940000419C0000434600004458000045E400004760000049
+F600004C4C00004E3600004F660000500A0000505E000050EE0000518A000051BE000052120000
+54FA000056C80000582600005A2C00005BCA00005D7600005FF20000625800006390000064FE00
+0067340000683200006B4A00006DD200006F94000071960000738C000075300000784C00007938
+00007B3600007D1E000080080000835C000085560000877E000088E60000892400008AA200008B
+5000008B8C00008BD400008C1200008C4800008C7800008CB600008CEC00008D2600008D680000
+8D9C00008DD800008E1600008E4C00008E8A00008EBA00008EF200008F2200008F6000008F8E00
+008FBE000090020000903E00009088000090C6000091000000913000009172000091BE000091F8
+000092360000926C000092B40000940C000094EA000096B40000987000009B0400009B5800009C
+0000009DAC0000A0320000A1BE0000A3F40000A44C0000A4CE0000A7360000A9560000AA1C0000
+AC560000ADA00000AF700000B0000000B2520000B4440000B55E0000B6300000B6960000B85600
+00B9740000BA400000BAEE0000BB320000BB8A0000BBCA0000BE900000C07E0000C0B40000C0EA
+0000C1F00000C2EC0000C37E0000C40A0000C4BE0000C5120000C5520000C6820000C7240000C7
+AA0000CA2A0000CA820000CB0E0000CC0A0000CF800000CFB80000CFF00000D0280000D06E0000
+D0A00000D0D00000D1000000D1520000D1840000D1BE0000D1EE0000D21E0000D2620000D2B000
+00D2EC0000D3C20000D41E0000D4C00000D5640000D5F80000D6580000D6920000D6CC0000D704
+0000D7400000D7AE0000D9680000DADC0000DB1C0000DB580000DC8A0000DDFC0000DF100000DF
+D80000E0EC0000E2360000E42E0000E5F80000E8440000E87E0000EA700001000000DE00760007
+0056000400020010001600410000059C0DAE00020001B9FFC0032BB2080E32B9FFC0032BB2161B
+32B9FFC0032AB31417321F4110033A0001000F0333000100000337002003370030033700800333
+0004FFC00332B310123250416403320001004003320060033200A0033200B00332000400100332
+003003320050033200E003320004000F0336007F033600FF033600030070033600F00336000200
+0F0331003F0331008F033100BF033100E003310005000F0331006003310002008F033000010060
+03300090033000020050032F00010010032F0040032F0060032F0080032F00A0032F00C0032F00
+F0032F000700CF032D00FF032D00020030032D0080032D00B0032D00DF032D0004006F032C007F
+032C00020012032000FD0800001F007F0299403A017F007F017F027F037F047F057F107F110840
+35252C32406A252C32402E252C324028252C323760097009800903300940095009031009200902
+B8FFC0B2073A33B8FFC04012063A33DA4DEA4DFA4D0312379006900702CF410C011100DF011100
+EF0111000300CF011000DF011000EF0110408703CF3EDF3EEF3E03CF4DDF4DEF4D03CFDEDFDEEF
+DE03CF2DDF2DEF2D03404D1B3A32375F016F017F018F01041F012F013F014F01045F036F037F03
+8F03041F032F033F034F0304600B700B800B03300B400B500B03100B200B02900BA00BB00BC00B
+D00B05B006C006D006E006F0060550066006700680069006A006061F072F073F07400604F04143
+02DB000100A002DB00B002DB0002008002DB009002DB0002001002DB000100C002DB00D002DB00
+02009002DB0001006002DB007002DB0002004002DB005002DB0002002302DB003002DB000202DB
+002300A002DA0001008002DA009002DA0002004002DA0001002302DA003002DA000202DA002300
+0002D90001007002D9009002D9000202D9401C2230244024021024202402002401F02401D024E0
+2402B024C02402C0413A02D8000100A002D800B002D80002008002D8009002D80002002302D800
+3002D8000202D8002300C002D7000100A002D700B002D70002008002D7009002D7000200A002D7
+00B002D70002008002D7009002D70002006002D7007002D70002004002D7005002D70002002302
+D7003002D7000202D7B223370F4119029B0001005F029B009F029B00DF029B0003002F029B003F
+029B006F029B0003000F029B001F029B0002029B029B0040029AB3272C3280B8029AB2263340B8
+029AB2223340B8029AB21E3340B8029AB21C3340B8029AB3191A325F410F029A009F029A00DF02
+9A0003000F029A001F029A003F029A0003FFC00299B2443340B80299B23D3340B80299B23A33DF
+413902990001005F029900AF02990002004F0299009F02990002002F0299003F0299000200AF02
+990001000F0299003F0299000200B0029900E0029900020070029900A002990002004F0299005F
+02990002000F0299001F0299002F0299003F02990004029A029A02990299000F027A002F027A40
+0B0200161600000012110812B802BAB269121FB802B4B228101FB802B3B228101FB802B2B22810
+1F411302030023000D01EE0023000D01AE0023000D019F0023000D01940023000D01570023000D
+010F400B230DF9230DC5230DA7230D410A024A0024000D01F00024000D01E90024000D016A400E
+240DE8240DC6240DA3240DA2240DBB01E30022000D0121401A220DE5220DDD220DB7220DAA220D
+93220D5C220D51220D4C220D410A02280020000D021D0020000D015E0020000D011C4017200DFC
+200DE1200DCB200DC8200DA1200D59200D3A200D410A01F20034000D019C0034000D0197003400
+0D0135B7340D1F340D1D340DBA0202000F015BB20F0009BB0202015B000D030AB22A3E1FB80309
+B22A3E1FB80221B24D251FB8021CB24D411FB8021BB24D521FB8021AB24D721FB80213B24D931F
+4109020F01B10401001F020E01B10801001F020CB22A811FB8020BB22A811FB80208B22A5E1FB8
+0205B22A391FB801FEB22A231FB801FBB2661D1FB801FAB2661E1FB801F6B266341FB801F5B266
+341FBC01F300660201001F01F1B2669E1F410901EA00280801001F01E7002602AB001F01B8B24D
+3F1FB801B7B24D931F410901B4003E0125001F01B200400401001F01ACB22A721FB801A8B22A28
+1FB801A7B22A241FB801A6B22A241FB801A3B22A1F1FB801A1B2662E1FB8019EB266931FB8019D
+B266E41FB8019AB2286C1F4109019900280401001F019800260401001F0173B24D1B1FB80171B2
+4D241FB80170B24D2F1FB8016FB24D351FB8016BB23ECD1FB80169B23EE41F4109016701B1019A
+001F0166002A02AB001F0161B2662A1FB8015FB2669E1F4109015D0028019A001F015C00350401
+001F0147B24D391FB80146B23ECD1F410D0145003E0125001F014401430101001F014201B102AB
+001F0140B22A301FB8013EB22A261FB8013DB2661D1FB8013CB2662B1FB80138B228811FB80137
+B2289E1FBC01360028019A001F0129B24D721FBC0124002A0201001F0123B22AAB1FB8011FB266
+291FB8011EB266451FB8011BB228811F41090113003E0125001F0112003E0401001F0111B22A29
+1FB80110B22A201FBE010B0066019A001F010A0026019AB61FFD4D721FFB3EB80156B21FFA40B8
+0801B21FF728B80801B61FEC4D621FEB4DB80401B21FEA40B802ABB61FDF4D721FDE3EB802AB40
+0B1FDC2AE41FDB66221FCA2AB80401401B1FC92A2E1FC326791FB828BB1FB34D1E1FB166291FB0
+66621FAF66B80401B21FAE26B802ABB21FA828B80201400B1FA0664C1F982A2B1F9726B8019AB6
+1F9266291F8740B802AB401B1F852A791F8226811F754D931F744D891F732A1D1F70285E1F6A28
+B8040140171F692A521F682A201F6766291F6566671F612A931F6035B80801B61F5E2ACD1F5335
+B80801B21F4B66B80156B21F493EB80801B61F4866521F4626B80201B21F3F66B80156400B1F3B
+66341F322A931F2E35BB0401001F002D0143B3CD1F5537BC022F0007018000070172402E07BD07
+7E076207540742072F072707250721071E071408120810080E080C080A08080806080408020800
+08000214B8FFE0402B000001001406100000010006040000010004100000010010020000010002
+00000001000002010802004A00B013034B024B5342B0372B4BB807FF52B0382B4BB007505B58B1
+01018E59014BB0C063004B6220B0F65323B8010A515AB005234201B0124B004B544218B0382BB0
+0288B801005458B801FFB101018E851BB0124358B90001012C858D1BB900010146858D59590016
+763F183F123E113946443E113946443E113946443E113946443E11394660443E11394660444544
+2B2B2B2B2B2B2B2B2B2B2B182B2B2B2B2B2B2B2B2B2B2B2B2B182B1DB0964B5358B0AA1D59B032
+4B5358B0FF1D594BB02953205C58B9026C026A4544B9026B026A45445958B90168026C455258B9
+026C01684459594BB03B53205C58B9003E026B4544B9004D026B45445958B9025C003E455258B9
+003E025C4459594BB03B53205C58B901B1003E4544B13E3E45445958B9024F01B1455258B901B1
+024F4459594BB05A53205C58B90143003E4544B13E3E45445958B9038B0143455258B90143038B
+4459594BB09E53205C58B9002A026C4544B90040026C45445958B9056C002A455258B9002A056C
+4459594BB01853205C58B126264544B1662645445958B13226455258B126324459594BB0515320
+5C58B126264544B1282645445958B1AD26455258B126AD4459594BB8010153205C58B126264544
+B1352645445958B902280026455258B9002602284459592B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B
+2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B
+2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B
+2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B65422B2B2B2B2B2B2B
+2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B2B
+2B2B2B2B2B01B33D766E58456523456023456560234560B08B766818B080622020B16E76456523
+4520B003266062636820B003266165B076236544B06E234420B13D584565234520B00326606263
+6820B003266165B058236544B03D2344B10058455458B158406544B23D403D4523614459B34E81
+3871456523456023456560234560B089766818B080622020B138814565234520B0032660626368
+20B003266165B081236544B038234420B14E714565234520B003266062636820B003266165B071
+236544B04E2344B10071455458B171406544B24E404E45236144594B5242014B5058B108004259
+435C58B108004259B3020B0A124358601B2159421610703EB0124358B93B21187E1BBA040001A8
+000B2B59B00C2342B00D2342B0124358B92D412D411BBA04000400000B2B59B00E2342B00F2342
+B0124358B9187E3B211BBA01A80400000B2B59B0102342B0112342007418456944456944737373
+737474757575752B2B2B73732B2B2B2B2B2B18456944737373742B454473737373737474744544
+737474747474747575754544737545447373747445447373737373747474740075757575757575
+757575752B2B74747474747400732B4358B14D4D451869441BB8FFC0B34D1B3A322B5973002B2B
+7575752B2B2B2B2B0073732B435C58B8FFC0B2071633B8FFC0400B061633D54DE54DF54D03C041
+0C011100D0011100E00111000300C0011000D0011000E00110401E03C03ED03EE03E03C04DD04D
+E04D03C0DED0DEE0DE03C02DD02DE02D03372B74747474747473002B2B59017373747374737473
+7473747374752B737573002B2B2B000000> 
+[ 16277 14757 15609 13377 ]  AllocGlyphStorage
+
+] def 
+108 44  PrepFor2015
+currentdict dup /FontName get exch
+end 
+def 
+25 dict begin
+/FontName /MSTT31d0588af5t00 def
+6399 2271 609 1056 16#b9a90859 Type42DictBegin
+MSTT31d0588af5t /sfnts get def
+/Encoding MSTT31d0588af5t /Type42DescendantEncoding get def
+MSTT31d0588af5t AddGDirDict
+/CharStrings MSTT31d0588af5t /CharString0 get dup /.notdef 0 put def
+currentdict dup /FontName get exch definefont pop
+end 
+MSTT31d0588af5t dup
+/FDepVector [/MSTT31d0588af5t00 findfont
+] put
+dup /FontName get exch definefont pop
+
+false /F2 .92 /0 false (MSTT31d0588af5t) cvn mF 
+583  VM?
+1 0 0< 00020100000005000500000300070042B40201C30607B803084013000504C303
+000A0704C3010019080605C30203BC014100090125015600182B10F63CFD3C4E
+10F43C4DFD3C003F3CFD3C10FC3CFD3C3130211121112521112101000400FC20
+03C0FC400500FB002004C000
+> /MSTT31d0588af5t AddT42Char
+1 12094 43< 0001002B00000614054C0043013F401243222300212010201D0822221840120B
+3F18B8FFC0400E371C3F00181018A0180320201D18B802D9B72232201D2A2222
+3AB8FFC04013120B3F3A40371C3F0F3A1F3AAF3A0342201D3AB802D9B6220740
+120B3F07B8FFC0400E371C3F00071007A0070301201D07B802D9B72311201D17
+222329B8FFC04013120B3F2940371C3F0F291F29AF290323201D29B802D9405E
+2333201D39222322212843000F001F003F000300072A2929181817023A393908
+080708230042104202423E320F33010F33015F3301337D004560450240455045
+A045B0450445200F011F0102013E11001001001001501001107D443D76182B4E
+10F45D71723C4DFD5D3C4D105D71F65D71723C4DFD5D3C003F3C103C103C3F3C
+103C103C1239722F3CFD3C2B2B015D2B2B2B2B015D2B2B2B015D2B2B2B2B015D
+2B2B2B0310053C3C103C3C313001111416163333152135333237363736351134
+2626232335211523220706070615112111342626232335211523220706070615
+111416163333152135333237363736351102301743392DFD3B2D3B241A0E0B16
+43392D02C52D3B241A0F0B01DF1644392C02C42C3C231A0F0B1644392CFD3C2C
+3C231A0F0B028CFE5C6834272525150E221866037C6834272525150E221866FE
+8001806834272525150E221866FC846834272525150E22186601A400
+> /MSTT31d0588af5t AddT42Char
+/F2S100 F2 100 xF 
+F2S100 Ji 
+542 2753 M 
+bS42 .2168 0 < 002b> A 
+eS42 2916  VM?
+2 4734 68< 0002005CFFF303DE03C30031003C023B4015061010390420103932403C44348B
+3593079B35033EB8FFC040614B35B639017E07A62DAC3CB72DC62DD821D72DD8
+35E62D09350745074A134A1749355817660895009B35A501B601B6080C330701
+803E99049A2D9C3104003E503E6316603E72179615AF01A53ABF01E03E0A0816
+503E743B03480802151215023BB8FFC040C41739EF3B013233080908072B2C28
+2B2C252B2C293C33AB33BB330304333D334D337D338D339F33AD33BD33CE33DD
+33ED330B703301333B14082108650875080402083B084C087A0889089F08A608
+C808D908090B081B0870080314120803180D261F2B2B2C2929662F3B48023297
+005D2F2F021840292B340F181F185F186F189F18AF18BF1807DF18EC18FC1803
+1818400E103418021F07020B0F2C1F2C2F2C3F2C042C4429430F251F250225EA
+00002F093F097F09BF090420097F0902000910090209B801BB4010403E803E02
+403E603E023EA81501151BB8FFC0402850283FFF1B011B2B0037103702373205
+402325346F05F0050230054005500560050405193D385518B80131852B4E10F4
+5D712B4DED71F4712BC15D105D71F45D5D723C10FD5DF6E45D003F3F12392B2F
+5D712B103C10F4ED10ED10FDF4E410ED1117395D717212395D71721139390111
+12393910C908103C0E3C3C005D2B0172313043794032383A1C230A1003040F25
+1D2621250B2639260E1E111E000C20091E0122233A03371E00101C0D1E010A22
+0D1E0138043B1E00002B2B2B012B103C2B2B2B2B2B2B2B818181810172715D00
+72715D01712B00712B2B2B250623222635343625353426262322070615141716
+1514062322263534363633321617161511141616333237170606232226271106
+07061514171633320249AB88506AB80135174028412A1A1C26493B3F5572CC6E
+859B170E0A140D1A1B1E326B44505A0A793B2721192D328A97694F6BAB8E5E6A
+37291D1218151F2B2831454C3348834671422A97FE9540211025184A434B9501
+39475136372E231B
+> /MSTT31d0588af5t AddT42Char
+2 13724 86< 00010051FFE402D403C300320287405C0B3015103F04100D2914101D29040614
+1614C625C626D910EA10F910072910252A3810362A870B95239524A90BA323B8
+0BB4230B050C050D0829150C470B4B0C06400B400C0212321F009B021F010140
+140C3F01400B123F9F010101B801454013009B122F400B12342FF32B181F199B
+1B1F1A1AB8FFC0B60B123F901A011AB8016B4023199B16F3121205262B07121E
+26120B120F011F01020140121534015B12002110210221B8FFC0400B0B0F3400
+2110210221220EB8FFC0402E32193F1F0E010E1A0F34012F344F345F346F347F
+34AF340634120F081F080208400B0F340F081F080208221A2928B8FFC0B63219
+3F0F280128B8FFC040090C0E342819333871182B4E10F42B712B4DE4ED5D2B71
+435C58B508201B103F08B8FFC0401732193F084014213F083C15233F083C1625
+3F08400B123F2B2B2B2B2B2B594E105D71F6722B4DED5D2B71435C58B5212014
+0C3F21B8FFE040091B103F215E32193F21B8FFC0B314213F21B8FFC0B315233F
+21B8FFC0B316253F21B8FFC0B20B123F2B2B2B2B2B2B2B59E42B71435C584019
+014028183F01401C113F0140101B3F01400E173F01400D163F2B2B2B2B2B5900
+3FED435C58B51E1E1E0F3F1EB8FFE2B30C143F1EB8FFE2B30D163F1EB8FFE2B2
+0E173F2B2B2B2B593FED435C58B90005FFB540121E0F3F051E0C143F051E0D16
+3F05140E173F2B2B2B2B5910ECF4ED5D2B0110EDF4ED0010EC2B435C58400F2F
+400A113F2F40090F3F2F40140C3F2B2B2B59F4ED5D2B2B0110EDF4ED435C58B5
+252D1C113F0BB8FFD0B31C113F0BB8FFE04009190F3F252D170E3F0BB8FFD340
+09170E3F252D160D3F25B8FFF1B3171F3F25B8FFE4B718203F0C1C19213F002B
+2B2B2B2B2B2B2B2B590071313000715D015D5D002B0113232626232206151417
+1604161514060623222726232207230333161633323635342627262726353436
+333217163332363702940F223D8341293A142001265D4E8E5643701E0B211621
+10222D9D46303D3C68992D42958D4C471B1112161803C1FEC18E6837241B1929
+C78B564E96502A0B32015084843B2A3046476A3852636CAF250F0F23
+> /MSTT31d0588af5t AddT42Char
+2 8900 76< 0002002A00000223056C000B001C00DB40161E8011173F0F110012001C1F1110
+12101C0617241F12B801EEB4220D241F11B801EEB42318241F1CBB01EE002300
+06FFC04011343634AF0601064000010C1C0612110A09B8FFC0401C3436340009
+100902094003290C0C0F0D1F0D020D2A18174011173F17B8FFC0B23A3517B8FF
+C0B320233417B8FFC0B313173417B8FFC0402F2D3034B017018F170100171017
+02177B401E501E021F1E601EA01EB01E042F1E3F1E8F1EB01EC01EE01E061D4E
+C0182B105D7172F65D5D712B2B2B2B2B3CFD5D3C10F4ED5D2B003F3C3F3C3FED
+5D2B2B2B2B015D3130012B013216151406232226353436131114161715213536
+37363511342627350126415A5B40405A5ACC2E43FE073E1E142E42056C5B4040
+5A5A40405BFE3BFD1B633704242402221763022263370425
+> /MSTT31d0588af5t AddT42Char
+2 10144 79< 0001002B00000224054C001000C0401C128011173F601201B012010F05000600
+101F0510061010060B241F06B801EEB42201241F05B801EEB4230C241F10B801
+EE40162300100006050A000F011F0102012A0C0B4011173F0BB8FFC0B23A350B
+B8FFC0B32D34340BB8FFC0B32023340BB8FFC04023131734B00B018F0B01000B
+100B020B7B1F12A012B012032F123F128F12C012E0120512B8FFC0B331343412
+B8FFC0B62D2E34114EC0182B102B2B5D71F65D5D712B2B2B2B2B3CFD5D3C003F
+3C3F3C2B2B2B015D3130015D712B011114161715213536373635113426273501
+B32E43FE073E1E142E42054CFB7663370424240222176303C86237042500
+> /MSTT31d0588af5t AddT42Char
+
+1 0 3 < > /MSTT31d0588af5t AddT42Char
+620 2753 M 
+bS42 < 00440056004c004f0003> [ 50 39 28 28 25 ] XSE 
+eS42 3499  VM?
+2 6808 72< 0002004FFFE4035D03C3001500200135405806124B145D146F14681565187914
+07250AA702C602C911D102D103D80DD815F303F80D0A7F150122401315345603
+66036F2277037F228303860EEA0DE815092A08FF16010809092B000810082008
+03085D05201600014616B80128B41B26130705B8011EB30C0B0916B8FFC0400B
+32193F1640192234166900B8FFC0B632193F0F000100B8FFC0B30B0E3400B8FF
+C040181135001A2F223F225F22EF22042220290F011F0102013210B8FFC0B332
+193F10B8FFC0B31E123F10B8FFC0B326303410B8FFC0400C0C0E34D010011019
+21388E182B4E10F45D2B2B2B2B4DFD5DE44E105DF62B2B712B4DED2B2B3C003F
+ED3FEDF4FD3C103C10F45DE40110C97131304379401E111E1D25181719170206
+1C121F1E001A14161E011E111B1E0117151B1E01002B2B012B2B2A2B81015D2B
+00715D0171012116171633323637170606232227263534123332160734262726
+232207061515035DFDFF095A45613C6238224CB879D06B56FDAA8ED1EE232515
+2334213B01F5BA6C534357169B81A081BFEA0115E9A2A1781F1233599B23
+> /MSTT31d0588af5t AddT42Char
+2 9578 78< 0001004400000486054C002E01A640B602201539B902BD0ED802E902FA0D051D
+091A0B261C22222223371C550D640D730D7711800D8D1B910D960F9610A91AB2
+0DB40FD810E81014020F0310091A1A122812050024002E1024102E3023050F0F
+101D1D1C1E1E0E0101021E1E0E1F0A0E0B1F0A161C171F1629241F2423220902
+081F091510141F151F241F2323232A241F2E23230305C102010201C00E010146
+1E0E141E1E0E100F0F5E1D1C141D1D1C0F0D1E1D1C100F0E020108301F002E00
+0A09060E720FB8011EB21D5B1EB80128401824242316150ADF30EF30027F3001
+3017171A15440A01DA09B80170B3290A010AB801AFB20E7210BA010E000F011E
+40161C500F1D1F1D021D771E1E1F0F001F0002002A2A2A29B8FFC040101D2134
+2F29C029D029E0290429192F30BC01030021004E01E400182B2B4EF45D2B3C4D
+10FD5D3C3C10F65DE4FDE4F4F45DFDE610F44E456544E6715D003F3C3C3C194D
+10F4F418FDE43F3C3F3C011112173908872E2B0E7D10C404872E182B5D0E7D10
+C45D001139182B2B10ED0110C00010ED0110C02B10ED0110C00010ED0110C010
+083C083C8710083C083C015D313001715D005D2B011137363635342627352115
+0606070713161716171521353236353427030715141617152135363736351134
+26273501C1D943212C4001A33C5A8366DC85192234FE1D201D2AB93C283EFE1D
+3B1911273E054CFC84D5413A1B1B2408252503338064FEBEC41822042424180E
+173E010F3BA86B350724240620166B03B66A34082500
+> /MSTT31d0588af5t AddT42Char
+3 0 88< 0001003FFFE4043103A700220192B90024FFC040A64B355024D02402090C1B0C
+2A0C490C04390C9A1CA91CB81C04EF07EE080222400B0D3421400B0D340F0500
+131F05101304DF0701FF070101241F0523230F241F1323231E241F2223230506
+050A1965090B0A0B0022221414130600062A0F011F0102012A1E064045473406
+403D35064043350640393A3406403031340640272834064022243406402B2D34
+06401E1F340640101134CF06010F06012006CF0602000610060206B801BB400A
+244021413F24403E3524B8FFC0B3393A3424B8FFC0B330313424B8FFC0B32C2E
+3424B8FFC0B22A3524B8FFC0B327283424B8FFC0B31E1F3424B8FFC040191315
+34C024011F24B024022F2470240224141F1501152A0F0EB8FFC0B321413F0EB8
+FFC0B3373A340EB8FFC0B32F31340EB8FFC0B22A350EB8FFC040131D2434F00E
+012F0EC00ED00E030E19234E81182B4E10F45D712B2B2B2B2B3C4DFD5D3C105D
+71722B2B2B2B2B2B2B2B2BF45D5D71722B2B2B2B2B2B2B2B2B2B3CFD5DED3C00
+3F3C103C103C3F3C3CED3F103C2B2B2B5D71015D3130012B2B00715D015D722B
+0111141617152135060623222626351134262735211114161633323736371134
+26273503CC283DFE834386534F7B2A273E017D13291B241D2838273E03A7FD24
+6B3507247D50496182A201736A340825FD81643A1E131A4F01F46A340825
+> /MSTT31d0588af5t AddT42Char
+1 7196 29< 000200AFFFE701FC03C2000B00170032B90019FFC04019121334064900070C49
+120B0F0349092CBF1501151918D8CF182B4E10F45D4DF4FD3C003FED3FED3130
+012B013216151406232226353436133216151406232226353436015645616145
+456161444661624545616103C26145456161454561FD72624545616145456200
+> /MSTT31d0588af5t AddT42Char
+790 2753 M 
+bS42 < 0048004e00560048004e00580056004c0003001d> [ 44 56 39 44 56 56 39 28 25 33 ] XSE 
+eS42 1210 2753 M 
+bS42 29 0 3 < 0003> W 
+eS42 F0S100 Ji 
+542 2874 M 
+( )S 
+542 2987 M 
+(ekspresi : a)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 2987 M 
+(-)S 
+1322 2987 M 
+(b+c/d*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1982 2987 M 
+(-)S 
+2042 2987 M 
+(h*j)[ 60 60 60 ] XSE 
+2222 2987 M 
+( )S 
+542 3100 M 
+(tanda ke : 1 yang mau dikerjakan )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 ] XSE 
+2522 3100 M 
+(-)S 
+2582 3100 M 
+( )S 
+542 3213 M 
+(batas kiri : 1 batas kanan : 3)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 3213 M 
+( )S 
+542 3327 M 
+(karakter batas kiri : a karakter batas kanan : b)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 3327 M 
+( )S 
+542 3440 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 3440 M 
+( substitusi x1=a)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2042 3440 M 
+(-)S 
+2102 3440 M 
+(b )[ 60 60 ] XSE 
+2222 3440 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 3440 M 
+( )S 
+542 3553 M 
+(ekspresi baru setelah direduksi : 1+c/d*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3242 3553 M 
+(-)S 
+3302 3553 M 
+(h*j)[ 60 60 60 ] XSE 
+3482 3553 M 
+( )S 
+542 3667 M 
+(jumlah tanda 7)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 3667 M 
+( )S 
+542 3780 M 
+( )S 
+542 3893 M 
+(ekspresi : 1+c/d*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1862 3893 M 
+(-)S 
+1922 3893 M 
+(h*j)[ 60 60 60 ] XSE 
+2102 3893 M 
+( )S 
+542 4006 M 
+(tanda ke : 2 yang mau dikerjakan /)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 4006 M 
+( )S 
+542 4120 M 
+(batas kiri : 3 batas kanan : 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 4120 M 
+( )S 
+542 4233 M 
+(karakter batas kiri : c karakter batas kanan : d)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 4233 M 
+( )S 
+542 4346 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 4346 M 
+( substitusi x2=c/d )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 4346 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 4346 M 
+( )S 
+542 4460 M 
+(ekspresi)[ 60 60 60 60 60 60 60 60 ] XSE 
+1022 4460 M 
+( baru setelah direduksi : 1+2*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 ] XSE 
+3122 4460 M 
+(-)S 
+3182 4460 M 
+(h*j)[ 60 60 60 ] XSE 
+3362 4460 M 
+( )S 
+542 4573 M 
+(jumlah tanda 6)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 4573 M 
+( )S 
+542 4686 M 
+( )S 
+542 4799 M 
+(ekspresi : 1+2*e/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1742 4799 M 
+(-)S 
+1802 4799 M 
+(h*j)[ 60 60 60 ] XSE 
+1982 4799 M 
+( )S 
+542 4913 M 
+(tanda ke : 2 yang mau dikerjakan *)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 4913 M 
+( )S 
+542 5026 M 
+(batas kiri : 3 batas kanan : 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 5026 M 
+( )S 
+542 5139 M 
+(karakter batas kiri : 2 karakter batas kanan : e)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 5139 M 
+( )S 
+542 5253 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 5253 M 
+( substitusi x3=x2*e )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2282 5253 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2942 5253 M 
+( )S 
+542 5366 M 
+(ekspresi baru setel)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1682 5366 M 
+(ah direduksi : 1+3/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 5366 M 
+(-)S 
+3062 5366 M 
+(h*j)[ 60 60 60 ] XSE 
+3242 5366 M 
+( )S 
+542 5479 M 
+(jumlah tanda 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 5479 M 
+( )S 
+542 5592 M 
+( )S 
+542 5706 M 
+(ekspresi : 1+3/f^g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 5706 M 
+(-)S 
+1682 5706 M 
+(h*j)[ 60 60 60 ] XSE 
+1862 5706 M 
+( )S 
+542 5819 M 
+(tanda ke : 3 yang mau dikerjakan ^)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 5819 M 
+( )S 
+
+LH 
+
+(%%[ Page: 4 ]%%)  = flush
+%%PageTrailer
+
+%%Page: 5 5
+%%BeginPageSetup
+featurebegin{
+
+}featurecleanup
+featurebegin{
+%%BeginFeature: *InputSlot OnlyOne
+
+%%EndFeature
+}featurecleanup
+mysetup concat colspRefresh
+%%EndPageSetup
+
+F0S100 Ji 
+0 0 0 sco 542 606 M 
+(batas kiri : 5 batas kanan : 7)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 606 M 
+( )S 
+542 719 M 
+(karakter batas kiri : f karakter batas kanan : g)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 719 M 
+( )S 
+542 833 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 833 M 
+( substitusi x4=f^g )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 833 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 833 M 
+( )S 
+542 946 M 
+(ekspresi baru setelah direduksi : 1+3/4)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 946 M 
+(-)S 
+2942 946 M 
+(h*j)[ 60 60 60 ] XSE 
+3122 946 M 
+( )S 
+542 1059 M 
+(jumlah tanda 4)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 1059 M 
+( )S 
+542 1172 M 
+( )S 
+542 1286 M 
+(ekspresi : 1+3/4)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1502 1286 M 
+(-)S 
+1562 1286 M 
+(h*j)[ 60 60 60 ] XSE 
+1742 1286 M 
+( )S 
+542 1399 M 
+(tanda ke : 2 yang mau dikerjakan /)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 1399 M 
+( )S 
+542 1512 M 
+(batas kiri : 3 batas kanan : 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 1512 M 
+( )S 
+542 1626 M 
+(karakter batas kiri : 3 karakter batas kanan : 4)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 1626 M 
+( )S 
+542 1739 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 1739 M 
+( substitusi x5=x3/x4 )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 1739 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 1739 M 
+( )S 
+542 1852 M 
+(ekspresi baru sete)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1622 1852 M 
+(lah direduksi : 1+5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2762 1852 M 
+(-)S 
+2822 1852 M 
+(h*j)[ 60 60 60 ] XSE 
+3002 1852 M 
+( )S 
+542 1965 M 
+(jumlah tanda 3)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 1965 M 
+( )S 
+542 2079 M 
+( )S 
+542 2192 M 
+(ekspresi : 1+5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 2192 M 
+(-)S 
+1442 2192 M 
+(h*j)[ 60 60 60 ] XSE 
+1622 2192 M 
+( )S 
+542 2305 M 
+(tanda ke : 1 yang mau dikerjakan +)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 2305 M 
+( )S 
+542 2419 M 
+(batas kiri : 1 batas kanan : 3)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 2419 M 
+( )S 
+542 2532 M 
+(karakter batas kiri : 1 karakter batas kanan : 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 2532 M 
+( )S 
+542 2645 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 2645 M 
+( substitusi x6=x1+x5 )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 2645 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3002 2645 M 
+( )S 
+542 2758 M 
+(ekspresi baru setelah direduksi : 6)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 ] XSE 
+2642 2758 M 
+(-)S 
+2702 2758 M 
+(h*j)[ 60 60 60 ] XSE 
+2882 2758 M 
+( )S 
+542 2872 M 
+(jumlah tanda 2)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 2872 M 
+( )S 
+542 2985 M 
+( )S 
+542 3098 M 
+(ekspresi : 6)[ 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1262 3098 M 
+(-)S 
+1322 3098 M 
+(h*j)[ 60 60 60 ] XSE 
+1502 3098 M 
+( )S 
+542 3211 M 
+(tanda ke : 2 yang mau dikerjakan *)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 ] XSE 
+2582 3211 M 
+( )S 
+542 3325 M 
+(batas kiri : 3 batas kanan : 5)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2342 3325 M 
+( )S 
+542 3438 M 
+(karakter batas kiri : h karakter batas kanan : j)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+3422 3438 M 
+( )S 
+542 3551 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 3551 M 
+( substitusi x7=h*j )[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2222 3551 M 
+(-----------)[ 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+2882 3551 M 
+( )S 
+542 3665 M 
+(ekspresi baru setelah direduksi : 6)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 60 
+60 60 60 60 60 ] XSE 
+2642 3665 M 
+(-)S 
+2702 3665 M 
+(7)S 
+2762 3665 M 
+( )S 
+542 3778 M 
+(jumlah tanda 1)[ 60 60 60 60 60 60 60 60 60 60 60 60 60 60 ] XSE 
+1382 3778 M 
+( )S 
+542 3891 M 
+(---------)[ 60 60 60 60 60 60 60 60 60 ] XSE 
+1082 3891 M 
+( x8=x6)[ 60 60 60 60 60 60 ] XSE 
+1442 3891 M 
+(-)S 
+1502 3891 M 
+(x7)[ 60 60 ] XSE 
+1622 3891 M 
+( )S 
+
+LH 
+
+(%%[ Page: 5 ]%%)  = flush
+%%PageTrailer
+
+%%Trailer
+%%BoundingBox: 1 1 612 792 
+%%DocumentNeededResources: 
+%%+ font Courier
+%%DocumentSuppliedResources: 
+%%+ procset AdobePS_Win_Feature_Safe 4.2 0
+%%+ procset AdobePS_Win_ErrorHandler 4.2 0
+%%+ procset AdobePS_Win_Driver_Incr_L2 4.2 0
+%%+ procset AdobePS_FatalError 4.2 0
+%%+ procset AdobePS_Win_Utils 4.2 0
+%%+ procset AdobePS_Win_Utils_L2 4.2 0
+%%+ procset AdobePS_Win_Clip_Emul 4.2 0
+%%+ procset AdobePS_Win_Text 4.2 0
+%%+ procset AdobePS_Win_Encoding 4.2 0
+%%+ procset AdobePS_Win_Type42 4.2 0
+%%DocumentSuppliedFeatures: 
+%%+ *Resolution 600dpi
+%%+ *PageSize Letter
+%%+ *PageRegion Letter
+%%+ JobTimeout 0
+%%+ WaitTimeout 240
+%%+ *InputSlot OnlyOne
+AdobePS_Win_Driver_Incr_L2 dup /terminate get exec
+savelevel0 restore 
+%%Pages: 5
+(%%[ LastPage ]%%)  = flush
+%%TrailerLength: 781
+%%EOF

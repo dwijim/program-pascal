@@ -1,0 +1,28 @@
+	
+
+var { must be global }
+  hr, mins, se, s1 : word;
+
+procedure StartClock;
+begin
+  GetTime (hr,mins,se,s1);
+end;
+
+procedure StopClock;
+var
+  siz : longint;
+  hr2, min2, se2  : word;
+begin
+  GetTime (hr2, min2, se2, s1);
+  siz := se2-se+(min2-mins)*60+(hr2-hr)*60*60;
+  ShowMessage (IntToStr(siz) + ' seconds');
+end;
+
+{ sample how to use it.. very simple }
+begin
+  StartClock;
+  for i := 1 to 100 do
+    MyProcedure(i);
+  StopClock;
+end.
+

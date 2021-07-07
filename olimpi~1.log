@@ -1,0 +1,514 @@
+This is pdfTeX, Version 3.14159-14f-released-20000525 (MiKTeX 2.1) (preloaded format=latex 2000.11.28)  17 AUG 2006 15:02
+**olimpi?1.tex
+(olimpi~1.tex{pdftex.cfg}
+LaTeX2e <2001/06/01>
+Babel <v3.7h> and hyphenation patterns for english, nohyphenation, indonesia, l
+oaded.
+(C:\texmf\tex\latex\base\article.cls
+Document Class: article 2001/04/21 v1.4e Standard LaTeX document class
+(C:\texmf\tex\latex\base\size10.clo
+File: size10.clo 2001/04/21 v1.4e Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(C:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+
+(C:\texmf\tex\latex\graphics\pdftex.def
+File: pdftex.def 2000/06/16 v0.03a graphics/color for pdftex
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+\epsfxsize=\dimen105
+\epsfysize=\dimen106
+)
+(C:\texmf\tex\generic\Babel\babel.sty
+Package: babel 2001/03/01 v3.7h The Babel package
+ (C:\texmf\tex\generic\Babel\bahasa.ldf
+Language: bahasa 2001/01/30 v1.0h Bahasa support from the babel system
+
+(C:\texmf\tex\generic\Babel\babel.def
+File: babel.def 2001/03/01 v3.7h Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen107
+)
+
+Package babel Warning: No hyphenation patterns were loaded for
+(babel)                the language `Bahasa'
+(babel)                I will use the patterns loaded for \language=0 instead.
+
+\l@bahasa = a dialect from \language0
+)) (C:\texmf\tex\latex\picinpar\picinpar.sty
+Pictures in Paragraphs. Version 1.2a, July 13, 1993
+\br=\count89
+\bl=\count90
+\na=\count91
+\nb=\count92
+\tcdsav=\count93
+\tcl=\count94
+\tcd=\count95
+\tcn=\count96
+\cumtcl=\count97
+\cumpartcl=\count98
+\lftside=\dimen108
+\rtside=\dimen109
+\hpic=\dimen110
+\vpic=\dimen111
+\strutilg=\dimen112
+\picwd=\dimen113
+\topheight=\dimen114
+\ilg=\dimen115
+\lpic=\dimen116
+\lwindowsep=\dimen117
+\rwindowsep=\dimen118
+\cumpar=\dimen119
+\twa=\toks15
+\la=\toks16
+\ra=\toks17
+\ha=\toks18
+\pictoc=\toks19
+\rawtext=\box26
+\holder=\box27
+\windowbox=\box28
+\wartext=\box29
+\finaltext=\box30
+\aslice=\box31
+\bslice=\box32
+\wbox=\box33
+\wstrutbox=\box34
+\picbox=\box35
+\waslice=\box36
+\wbslice=\box37
+\fslice=\box38
+)
+\@indexfile=\write3
+
+Writing index file olimpi~1.idx
+
+LaTeX Warning: Unused global option(s):
+    [makeidx].
+
+(olimpi~1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (C:\texmf\tex\context\base\supp-pdf.tex
+(C:\texmf\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Missing
+\protectiondepth=\count99
+\scratchcounter=\count100
+\scratchdimen=\dimen120
+\scratchskip=\skip43
+\scratchmuskip=\muskip10
+\scratchbox=\box39
+\scratchread=\read1
+\scratchwrite=\write4
+\nextbox=\box40
+\nextdepth=\dimen121
+\everyline=\toks20
+\!!counta=\count101
+\!!countb=\count102
+\recursecounter=\count103
+)
+loading : Context Support Macros / PDF
+\nofMPsegments=\count104
+\nofMParguments=\count105
+) [1
+
+{psfonts.map}]
+Overfull \hbox (14.69516pt too wide) in paragraph at lines 54--63
+[][]/cmr10/Tulisan ini dis-usun se-ba-gai rangka-ian kegiatan keti-ka mem-bi-na
+ tim olimpiade
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--74
+
+ []
+
+[1] (olimpi~1.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write5
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+[2]
+Overfull \hbox (74.99634pt too wide) in paragraph at lines 163--163
+[]/cmtt10/program membalik_deretan_karakter; salam keadilan dan kesejahteraan u
+ntuk rakyat[] 
+ []
+
+
+Overfull \hbox (69.74638pt too wide) in paragraph at lines 163--163
+[] /cmtt10/di bumi pertiwi. supaya yakin maka tulisan ini dibuat lebih dari 255
+ karakter.[] 
+ []
+
+
+Overfull \hbox (74.99634pt too wide) in paragraph at lines 163--163
+[]/cmtt10/apakah anda sudah mempersiapkan bekal untuk kehidupan setelah kematia
+n nanti ? d[] 
+ []
+
+
+Overfull \hbox (69.74638pt too wide) in paragraph at lines 163--163
+[]/cmtt10/234 304 6180 isamrofni igolonket nijargnep ihtekas iwd ? itnan naitam
+ek haletes[] 
+ []
+
+
+Overfull \hbox (74.99634pt too wide) in paragraph at lines 163--163
+[]/cmtt10/napudihek kutnu lakeb nakpaisrepmem hadus adna hakapa .retkarak 552 i
+rad hibel t[] 
+ []
+
+
+Overfull \hbox (69.74638pt too wide) in paragraph at lines 163--163
+[]/cmtt10/aubid ini nasilut akam nikay ayapus .iwitrep imub id taykar kutnu naa
+rethajesek[] 
+ []
+
+[3]
+Overfull \hbox (53.99652pt too wide) in paragraph at lines 466--466
+[]    /cmtt10/awal,akhir,tingkat_kurung_awal,sudah_dihitung : array[1..25] of i
+nteger;[] 
+ []
+
+
+Overfull \hbox (74.99634pt too wide) in paragraph at lines 466--466
+[]    /cmtt10/pengali,kurung_punya,tingkat_kurung_akhir,kepakai : array[1..25] 
+of integer;[] 
+ []
+
+[4]
+Overfull \hbox (64.49643pt too wide) in paragraph at lines 466--466
+[]                /cmtt10/tingkat_kurung_akhir[i] := tingkat_kurung_awal[jumlah
+_kurung];[] 
+ []
+
+[5]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 466--466
+[]       /cmtt10/p:=copy(kimia,akhir[i]+1,1);   { mencari faktor pengali untuk 
+}[] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 466--466
+[]       /cmtt10/val(p,k,kode_error);           { masing-masing kurung         
+}[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 466--466
+[]          /cmtt10/kepakai[sekarang]:=1;   { menandai bahwa posisi ini sudah[]
+ 
+ []
+
+
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 466--466
+[]          /cmtt10/if ((p='C') or (p='H') or (p='O')) and (sudah_dihitung[i]=0
+) then[] 
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 466--466
+[]                    /cmtt10/for j:=1 to k do hasil_kurung:=hasil_kurung + p[]
+ 
+ []
+
+[6]
+Overfull \hbox (111.74602pt too wide) in paragraph at lines 466--466
+[]                                /cmtt10/write('awal : ',awal_sebelum,' - ',aw
+al[sekarang],' ');[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 466--466
+[]         /cmtt10/if (awal[sekarang]<>1) and (akhir[sekarang]<>panjang-1) then
+[] 
+ []
+
+
+Overfull \hbox (32.9967pt too wide) in paragraph at lines 466--466
+[]                  /cmtt10/hasil_kurung_total:= hasil_kurung_total+ hasil_kuru
+ng;[] 
+ []
+
+
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 466--466
+[]                /cmtt10/hasil_kurung_total:= hasil_kurung_total+ hasil_kurung
+;[] 
+ []
+
+[7]
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 466--466
+[]   /cmtt10/for i:=1 to k do hasil_akhir := hasil_akhir + hasil_kurung_total;[
+] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 466--466
+[]   /cmtt10/for i:=1 to k do hasil_akhir := hasil_akhir + hasil_kurung_total;[
+] 
+ []
+
+[8]
+Overfull \hbox (22.4968pt too wide) in paragraph at lines 508--508
+[]/cmtt10/kurung ke-5 tingkat 3 : awal : 13 - 15 ada di dalam kurung pengali : 
+1[] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 508--508
+[]/cmtt10/kurung ke-2 tingkat 2 : awal : 1 - 2 ada di dalam kurung pengali : 2[
+] 
+ []
+
+
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 508--508
+[]/cmtt10/kurung ke-3 tingkat 2 : awal : 1 - 7 ada di dalam kurung pengali : 1[
+] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 508--508
+[]/cmtt10/kurung ke-4 tingkat 2 : awal : 1 - 13 ada di dalam kurung pengali : 1
+[] 
+ []
+
+[9]
+Overfull \hbox (0.80519pt too wide) in paragraph at lines 524--533
+[]/cmr10/Buatlah pro-gram EK-SPRE-SI.PAS se-ba-gai lati-han An-da men-je-lang O
+N. Lati-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--539
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 543--569
+
+ []
+
+[10]
+Overfull \hbox (29.02856pt too wide) in paragraph at lines 584--596
+[]/cmr10/Program harus menuliskan kelu-aran dalam file berna-ma EK-SPRE-SI.OUT.
+Keluaran
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 584--596
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--598
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 599--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--608
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--611
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--623
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--633
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--633
+
+ []
+
+[11]
+Overfull \hbox (48.74657pt too wide) in paragraph at lines 792--792
+[]    /cmtt10/batas_kiri,batas_kanan,proses,sekarang,i,j,jumlah_tanda,panjang :
+ byte;[] 
+ []
+
+[12]
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 792--792
+[]       /cmtt10/{ mencari operator mana yang akan dikerjakan terlebih dahulu }
+[] 
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 792--792
+[]       /cmtt10/writeln('batas kiri : ',batas_kiri,' batas kanan : ',batas_kan
+an);[] 
+ []
+
+[13]
+Overfull \hbox (1.49698pt too wide) in paragraph at lines 792--792
+[]       /cmtt10/for i:=1 to batas_kiri-1 do ekspresi:=ekspresi+karakter[i];[] 
+
+ []
+
+
+Overfull \hbox (38.24666pt too wide) in paragraph at lines 792--792
+[]       /cmtt10/for i:=batas_kanan+1 to panjang do ekspresi:=ekspresi+karakter
+[i];[] 
+ []
+
+
+Overfull \hbox (17.24684pt too wide) in paragraph at lines 792--792
+[]       /cmtt10/{ mencari operator mana yang akan dikerjakan terlebih dahulu }
+[] 
+ []
+
+[14]
+Overfull \hbox (132.74583pt too wide) in paragraph at lines 792--792
+[]              /cmtt10/writeln('--------- x',str_temp,'=x',karakter[1],karakte
+r[2],'x',karakter[3]);[] 
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 882--886
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 887--888
+
+ []
+
+
+Overfull \hbox (6.74693pt too wide) in paragraph at lines 1005--1005
+[]    /cmtt10/tulisan_selesai,tulisan_asli,potongan_tulisan,tulisan : string;[]
+ 
+ []
+
+[17]
+Overfull \hbox (11.99689pt too wide) in paragraph at lines 1005--1005
+[]           /cmtt10/potongan_tulisan := copy(potongan_tulisan,1,batas_kanan);[
+] 
+ []
+
+
+Overfull \hbox (216.7451pt too wide) in paragraph at lines 1005--1005
+[]           /cmtt10/potongan_tulisan := copy(tulisan,mulai_tulisan_baru,panjan
+g_tulisan_tetap-mulai_tulisan_baru+1);[] 
+ []
+
+[18] [19] [20] [21] (olimpi~1.aux) )<cmmi7.pfb><cmbxti10.pfb><cmtt10.pfb><cmsy1
+0.pfb><cmmi10.pfb><cmbx10.pfb><cmti10.pfb><cmr10.pfb><cmbx12.pfb><cmcsc10.pfb><
+cmr9.pfb><cmr17.pfb><cmr12.pfb>
+Output written on olimpi~1.pdf (23 pages, 128162 bytes).
