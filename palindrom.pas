@@ -1,8 +1,8 @@
 program mencari_multipaliandrom_pada_suatu_tulisan;
 { dikembangkan oleh dwi sakethi
-                    dwijim@unila.ac.id
+                    dwijim@fmipa.unila.ac.id
                     dwijim@gmail.com
-		    0816 403 432
+		    0811 725 1106
   pada tanggal 18 agustus 2006 }
 
 uses crt;
